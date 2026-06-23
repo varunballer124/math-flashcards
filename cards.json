@@ -1,0 +1,4398 @@
+{
+ "count": 486,
+ "cards": [
+  {
+   "gid": 1,
+   "part": 1,
+   "lid": 1,
+   "section": "Essential Quant Skills",
+   "title": "Connecting a Percent to a Decimal",
+   "full": "assets/part1/card_001.jpeg",
+   "front": "assets/part1/front/front_001.jpg"
+  },
+  {
+   "gid": 2,
+   "part": 1,
+   "lid": 2,
+   "section": "Essential Quant Skills",
+   "title": "Estimation With Multiplication and Division",
+   "full": "assets/part1/card_002.jpeg",
+   "front": "assets/part1/front/front_002.jpg"
+  },
+  {
+   "gid": 3,
+   "part": 1,
+   "lid": 3,
+   "section": "Essential Quant Skills",
+   "title": "Using the Units Digit of a Number to Solve Problems Efficiently",
+   "full": "assets/part1/card_003.jpeg",
+   "front": "assets/part1/front/front_003.jpg"
+  },
+  {
+   "gid": 4,
+   "part": 1,
+   "lid": 4,
+   "section": "Essential Quant Skills",
+   "title": "Comparing Negative Fractions",
+   "full": "assets/part1/card_004.jpeg",
+   "front": "assets/part1/front/front_004.jpg"
+  },
+  {
+   "gid": 5,
+   "part": 1,
+   "lid": 5,
+   "section": "Essential Quant Skills",
+   "title": "PEMDAS: The Order of Mathematical Operations",
+   "full": "assets/part1/card_005.jpeg",
+   "front": "assets/part1/front/front_005.jpg"
+  },
+  {
+   "gid": 6,
+   "part": 1,
+   "lid": 6,
+   "section": "Essential Quant Skills",
+   "title": "The Order of Operations in Fractions",
+   "full": "assets/part1/card_006.jpeg",
+   "front": "assets/part1/front/front_006.jpg"
+  },
+  {
+   "gid": 7,
+   "part": 1,
+   "lid": 7,
+   "section": "Essential Quant Skills",
+   "title": "Time-Saving Properties of Addition",
+   "full": "assets/part1/card_007.jpeg",
+   "front": "assets/part1/front/front_007.jpg"
+  },
+  {
+   "gid": 8,
+   "part": 1,
+   "lid": 8,
+   "section": "Essential Quant Skills",
+   "title": "Time-Saving Properties of Multiplication",
+   "full": "assets/part1/card_008.jpeg",
+   "front": "assets/part1/front/front_008.jpg"
+  },
+  {
+   "gid": 9,
+   "part": 1,
+   "lid": 9,
+   "section": "Essential Quant Skills",
+   "title": "The Distributive Property",
+   "full": "assets/part1/card_009.jpeg",
+   "front": "assets/part1/front/front_009.jpg"
+  },
+  {
+   "gid": 10,
+   "part": 1,
+   "lid": 10,
+   "section": "Essential Quant Skills",
+   "title": "The Distributive Property Allows Us to Factor Out Common Factors",
+   "full": "assets/part1/card_010.jpeg",
+   "front": "assets/part1/front/front_010.jpg"
+  },
+  {
+   "gid": 11,
+   "part": 1,
+   "lid": 11,
+   "section": "Essential Quant Skills",
+   "title": "Simplifying Addition by Rewriting Numbers",
+   "full": "assets/part1/card_011.jpeg",
+   "front": "assets/part1/front/front_011.jpg"
+  },
+  {
+   "gid": 12,
+   "part": 1,
+   "lid": 12,
+   "section": "Essential Quant Skills",
+   "title": "Introduction to Factorials",
+   "full": "assets/part1/card_012.jpeg",
+   "front": "assets/part1/front/front_012.jpg"
+  },
+  {
+   "gid": 13,
+   "part": 1,
+   "lid": 13,
+   "section": "Essential Quant Skills",
+   "title": "Factoring Factorials",
+   "full": "assets/part1/card_013.jpeg",
+   "front": "assets/part1/front/front_013.jpg"
+  },
+  {
+   "gid": 14,
+   "part": 1,
+   "lid": 14,
+   "section": "Essential Quant Skills",
+   "title": "Converting a Decimal to a Percent",
+   "full": "assets/part1/card_014.jpeg",
+   "front": "assets/part1/front/front_014.jpg"
+  },
+  {
+   "gid": 15,
+   "part": 1,
+   "lid": 15,
+   "section": "Essential Quant Skills",
+   "title": "Simple Fractions: Proper and Improper Fractions",
+   "full": "assets/part1/card_015.jpeg",
+   "front": "assets/part1/front/front_015.jpg"
+  },
+  {
+   "gid": 16,
+   "part": 1,
+   "lid": 16,
+   "section": "Essential Quant Skills",
+   "title": "The Least Common Denominator",
+   "full": "assets/part1/card_016.jpeg",
+   "front": "assets/part1/front/front_016.jpg"
+  },
+  {
+   "gid": 17,
+   "part": 1,
+   "lid": 17,
+   "section": "Essential Quant Skills",
+   "title": "Equivalent Fractions",
+   "full": "assets/part1/card_017.jpeg",
+   "front": "assets/part1/front/front_017.jpg"
+  },
+  {
+   "gid": 18,
+   "part": 1,
+   "lid": 18,
+   "section": "Essential Quant Skills",
+   "title": "Adding and Subtracting Fractions with the Same Denominator",
+   "full": "assets/part1/card_018.jpeg",
+   "front": "assets/part1/front/front_018.jpg"
+  },
+  {
+   "gid": 19,
+   "part": 1,
+   "lid": 19,
+   "section": "Essential Quant Skills",
+   "title": "Adding Fractions with Unlike Denominators",
+   "full": "assets/part1/card_019.jpeg",
+   "front": "assets/part1/front/front_019.jpg"
+  },
+  {
+   "gid": 20,
+   "part": 1,
+   "lid": 20,
+   "section": "Essential Quant Skills",
+   "title": "Adding a Whole Number and a Fraction",
+   "full": "assets/part1/card_020.jpeg",
+   "front": "assets/part1/front/front_020.jpg"
+  },
+  {
+   "gid": 21,
+   "part": 1,
+   "lid": 21,
+   "section": "Essential Quant Skills",
+   "title": "Subtracting a Fraction from a Whole Number",
+   "full": "assets/part1/card_021.jpeg",
+   "front": "assets/part1/front/front_021.jpg"
+  },
+  {
+   "gid": 22,
+   "part": 1,
+   "lid": 22,
+   "section": "Essential Quant Skills",
+   "title": "Multiplying and Dividing Fractions: Part 1",
+   "full": "assets/part1/card_022.jpeg",
+   "front": "assets/part1/front/front_022.jpg"
+  },
+  {
+   "gid": 23,
+   "part": 1,
+   "lid": 23,
+   "section": "Essential Quant Skills",
+   "title": "Multiplying and Dividing a Whole Number by a Fraction",
+   "full": "assets/part1/card_023.jpeg",
+   "front": "assets/part1/front/front_023.jpg"
+  },
+  {
+   "gid": 24,
+   "part": 1,
+   "lid": 24,
+   "section": "Essential Quant Skills",
+   "title": "Simplify Fractions Before Multiplying: Top-and-Bottom Simplification",
+   "full": "assets/part1/card_024.jpeg",
+   "front": "assets/part1/front/front_024.jpg"
+  },
+  {
+   "gid": 25,
+   "part": 1,
+   "lid": 25,
+   "section": "Essential Quant Skills",
+   "title": "Reciprocals and \u201c1 Over a Fraction\u201d",
+   "full": "assets/part1/card_025.jpeg",
+   "front": "assets/part1/front/front_025.jpg"
+  },
+  {
+   "gid": 26,
+   "part": 1,
+   "lid": 26,
+   "section": "Essential Quant Skills",
+   "title": "Simplifying Complex Fractions: Technique #1",
+   "full": "assets/part1/card_026.jpeg",
+   "front": "assets/part1/front/front_026.jpg"
+  },
+  {
+   "gid": 27,
+   "part": 1,
+   "lid": 27,
+   "section": "Essential Quant Skills",
+   "title": "Using a Reference Point to Compare the Size of Fractions",
+   "full": "assets/part1/card_027.jpeg",
+   "front": "assets/part1/front/front_027.jpg"
+  },
+  {
+   "gid": 28,
+   "part": 1,
+   "lid": 28,
+   "section": "Essential Quant Skills",
+   "title": "Comparing the Size of Fractions Using the Bowtie Method",
+   "full": "assets/part1/card_028.jpeg",
+   "front": "assets/part1/front/front_028.jpg"
+  },
+  {
+   "gid": 29,
+   "part": 1,
+   "lid": 29,
+   "section": "Essential Quant Skills",
+   "title": "Comparing Fractions by Using a Common Denominator",
+   "full": "assets/part1/card_029.jpeg",
+   "front": "assets/part1/front/front_029.jpg"
+  },
+  {
+   "gid": 30,
+   "part": 1,
+   "lid": 30,
+   "section": "Essential Quant Skills",
+   "title": "Comparing Fractions by Using a Common Numerator",
+   "full": "assets/part1/card_030.jpeg",
+   "front": "assets/part1/front/front_030.jpg"
+  },
+  {
+   "gid": 31,
+   "part": 1,
+   "lid": 31,
+   "section": "Essential Quant Skills",
+   "title": "Decimals",
+   "full": "assets/part1/card_031.jpeg",
+   "front": "assets/part1/front/front_031.jpg"
+  },
+  {
+   "gid": 32,
+   "part": 1,
+   "lid": 32,
+   "section": "Essential Quant Skills",
+   "title": "Adding and Subtracting Decimals",
+   "full": "assets/part1/card_032.jpeg",
+   "front": "assets/part1/front/front_032.jpg"
+  },
+  {
+   "gid": 33,
+   "part": 1,
+   "lid": 33,
+   "section": "Essential Quant Skills",
+   "title": "Multiplying Decimals",
+   "full": "assets/part1/card_033.jpeg",
+   "front": "assets/part1/front/front_033.jpg"
+  },
+  {
+   "gid": 34,
+   "part": 1,
+   "lid": 34,
+   "section": "Essential Quant Skills",
+   "title": "Dividing Decimals",
+   "full": "assets/part1/card_034.jpeg",
+   "front": "assets/part1/front/front_034.jpg"
+  },
+  {
+   "gid": 35,
+   "part": 1,
+   "lid": 35,
+   "section": "Essential Quant Skills",
+   "title": "Rounding Down Positive Integers",
+   "full": "assets/part1/card_035.jpeg",
+   "front": "assets/part1/front/front_035.jpg"
+  },
+  {
+   "gid": 36,
+   "part": 1,
+   "lid": 36,
+   "section": "Essential Quant Skills",
+   "title": "Arranging Decimals by Size",
+   "full": "assets/part1/card_036.jpeg",
+   "front": "assets/part1/front/front_036.jpg"
+  },
+  {
+   "gid": 37,
+   "part": 1,
+   "lid": 37,
+   "section": "Essential Quant Skills",
+   "title": "Converting a Percent to a Fraction",
+   "full": "assets/part1/card_037.jpeg",
+   "front": "assets/part1/front/front_037.jpg"
+  },
+  {
+   "gid": 38,
+   "part": 1,
+   "lid": 38,
+   "section": "Essential Quant Skills",
+   "title": "Converting a Fraction to a Percent",
+   "full": "assets/part1/card_038.jpeg",
+   "front": "assets/part1/front/front_038.jpg"
+  },
+  {
+   "gid": 39,
+   "part": 1,
+   "lid": 39,
+   "section": "Essential Quant Skills",
+   "title": "Converting a Fraction to a Decimal When the Denominator is NOT a Power of 10",
+   "full": "assets/part1/card_039.jpeg",
+   "front": "assets/part1/front/front_039.jpg"
+  },
+  {
+   "gid": 40,
+   "part": 1,
+   "lid": 40,
+   "section": "Essential Quant Skills",
+   "title": "Converting a Terminating Decimal to a Fraction",
+   "full": "assets/part1/card_040.jpeg",
+   "front": "assets/part1/front/front_040.jpg"
+  },
+  {
+   "gid": 41,
+   "part": 1,
+   "lid": 41,
+   "section": "Essential Quant Skills",
+   "title": "Base Fractions and Their Decimal and Percent Equivalents",
+   "full": "assets/part1/card_041.jpeg",
+   "front": "assets/part1/front/front_041.jpg"
+  },
+  {
+   "gid": 42,
+   "part": 1,
+   "lid": 42,
+   "section": "Essential Quant Skills",
+   "title": "Squaring and Taking the Square Root of a Number Between 0 and 1",
+   "full": "assets/part1/card_042.jpeg",
+   "front": "assets/part1/front/front_042.jpg"
+  },
+  {
+   "gid": 43,
+   "part": 1,
+   "lid": 43,
+   "section": "Essential Quant Skills",
+   "title": "Properties of Square Roots: Squaring a Square Root",
+   "full": "assets/part1/card_043.jpeg",
+   "front": "assets/part1/front/front_043.jpg"
+  },
+  {
+   "gid": 44,
+   "part": 1,
+   "lid": 44,
+   "section": "Essential Quant Skills",
+   "title": "Properties of Square Roots: Splitting a Single Root into a Product",
+   "full": "assets/part1/card_044.jpeg",
+   "front": "assets/part1/front/front_044.jpg"
+  },
+  {
+   "gid": 45,
+   "part": 1,
+   "lid": 45,
+   "section": "Essential Quant Skills",
+   "title": "Simplify Fractions Before Multiplying: Cross Simplification",
+   "full": "assets/part1/card_045.jpeg",
+   "front": "assets/part1/front/front_045.jpg"
+  },
+  {
+   "gid": 46,
+   "part": 1,
+   "lid": 46,
+   "section": "Essential Quant Skills",
+   "title": "Rounding Up Positive Integers",
+   "full": "assets/part1/card_046.jpeg",
+   "front": "assets/part1/front/front_046.jpg"
+  },
+  {
+   "gid": 47,
+   "part": 1,
+   "lid": 47,
+   "section": "Essential Quant Skills",
+   "title": "Multiplying and Dividing Fractions: Part 2",
+   "full": "assets/part1/card_047.jpeg",
+   "front": "assets/part1/front/front_047.jpg"
+  },
+  {
+   "gid": 48,
+   "part": 1,
+   "lid": 48,
+   "section": "Essential Quant Skills",
+   "title": "Perfect Squares Have a Finite Number of Units Digits",
+   "full": "assets/part1/card_048.jpeg",
+   "front": "assets/part1/front/front_048.jpg"
+  },
+  {
+   "gid": 49,
+   "part": 1,
+   "lid": 49,
+   "section": "Essential Quant Skills",
+   "title": "Converting an Improper Fraction to a Mixed Number",
+   "full": "assets/part1/card_049.jpeg",
+   "front": "assets/part1/front/front_049.jpg"
+  },
+  {
+   "gid": 50,
+   "part": 1,
+   "lid": 50,
+   "section": "Essential Quant Skills",
+   "title": "Simplifying Subtraction by Rewriting Numbers",
+   "full": "assets/part1/card_050.jpeg",
+   "front": "assets/part1/front/front_050.jpg"
+  },
+  {
+   "gid": 51,
+   "part": 1,
+   "lid": 51,
+   "section": "Essential Quant Skills",
+   "title": "Estimation With Addition and Subtraction",
+   "full": "assets/part1/card_051.jpeg",
+   "front": "assets/part1/front/front_051.jpg"
+  },
+  {
+   "gid": 52,
+   "part": 1,
+   "lid": 52,
+   "section": "Essential Quant Skills",
+   "title": "Simplifying Complex Fractions: Technique #2",
+   "full": "assets/part1/card_052.jpeg",
+   "front": "assets/part1/front/front_052.jpg"
+  },
+  {
+   "gid": 53,
+   "part": 1,
+   "lid": 53,
+   "section": "Essential Quant Skills",
+   "title": "Simplifying Factorial Expressions",
+   "full": "assets/part1/card_053.jpeg",
+   "front": "assets/part1/front/front_053.jpg"
+  },
+  {
+   "gid": 54,
+   "part": 1,
+   "lid": 54,
+   "section": "Essential Quant Skills",
+   "title": "Subtracting Fractions with Unlike Denominators",
+   "full": "assets/part1/card_054.jpeg",
+   "front": "assets/part1/front/front_054.jpg"
+  },
+  {
+   "gid": 55,
+   "part": 1,
+   "lid": 55,
+   "section": "Essential Quant Skills",
+   "title": "Converting a Mixed Number to an Improper Fraction",
+   "full": "assets/part1/card_055.jpeg",
+   "front": "assets/part1/front/front_055.jpg"
+  },
+  {
+   "gid": 56,
+   "part": 1,
+   "lid": 56,
+   "section": "Essential Quant Skills",
+   "title": "Rounding Decimals Down to a Certain Place Value",
+   "full": "assets/part1/card_056.jpeg",
+   "front": "assets/part1/front/front_056.jpg"
+  },
+  {
+   "gid": 57,
+   "part": 1,
+   "lid": 57,
+   "section": "Essential Quant Skills",
+   "title": "Rounding Decimals Up to a Certain Place Value",
+   "full": "assets/part1/card_057.jpeg",
+   "front": "assets/part1/front/front_057.jpg"
+  },
+  {
+   "gid": 58,
+   "part": 1,
+   "lid": 58,
+   "section": "Essential Quant Skills",
+   "title": "Rounding Up Numbers When the Original Digit is 9",
+   "full": "assets/part1/card_058.jpeg",
+   "front": "assets/part1/front/front_058.jpg"
+  },
+  {
+   "gid": 59,
+   "part": 1,
+   "lid": 59,
+   "section": "Linear & Quadratic Equations",
+   "title": "Solving an Equation for One Variable",
+   "full": "assets/part1/card_059.jpeg",
+   "front": "assets/part1/front/front_059.jpg"
+  },
+  {
+   "gid": 60,
+   "part": 1,
+   "lid": 60,
+   "section": "Linear & Quadratic Equations",
+   "title": "Solving for an Expression",
+   "full": "assets/part1/card_060.jpeg",
+   "front": "assets/part1/front/front_060.jpg"
+  },
+  {
+   "gid": 61,
+   "part": 1,
+   "lid": 61,
+   "section": "Linear & Quadratic Equations",
+   "title": "Solving a System for Two Variables: Substitution Method",
+   "full": "assets/part1/card_061.jpeg",
+   "front": "assets/part1/front/front_061.jpg"
+  },
+  {
+   "gid": 62,
+   "part": 1,
+   "lid": 62,
+   "section": "Linear & Quadratic Equations",
+   "title": "Solving a System for Two Variables: Combination with Subtraction",
+   "full": "assets/part1/card_062.jpeg",
+   "front": "assets/part1/front/front_062.jpg"
+  },
+  {
+   "gid": 63,
+   "part": 1,
+   "lid": 63,
+   "section": "Linear & Quadratic Equations",
+   "title": "Solving a System for Two Variables: Combination with Addition",
+   "full": "assets/part1/card_063.jpeg",
+   "front": "assets/part1/front/front_063.jpg"
+  },
+  {
+   "gid": 64,
+   "part": 1,
+   "lid": 64,
+   "section": "Linear & Quadratic Equations",
+   "title": "Combining Equations When the Coefficients are Different",
+   "full": "assets/part1/card_064.jpeg",
+   "front": "assets/part1/front/front_064.jpg"
+  },
+  {
+   "gid": 65,
+   "part": 1,
+   "lid": 65,
+   "section": "Linear & Quadratic Equations",
+   "title": "Determining the Number of Solutions to a System of Linear Equations",
+   "full": "assets/part1/card_065.jpeg",
+   "front": "assets/part1/front/front_065.jpg"
+  },
+  {
+   "gid": 66,
+   "part": 1,
+   "lid": 66,
+   "section": "Linear & Quadratic Equations",
+   "title": "Equations with Fractions",
+   "full": "assets/part1/card_066.jpeg",
+   "front": "assets/part1/front/front_066.jpg"
+  },
+  {
+   "gid": 67,
+   "part": 1,
+   "lid": 67,
+   "section": "Linear & Quadratic Equations",
+   "title": "Solving for One Variable in Terms of Other Variables",
+   "full": "assets/part1/card_067.jpeg",
+   "front": "assets/part1/front/front_067.jpg"
+  },
+  {
+   "gid": 68,
+   "part": 1,
+   "lid": 68,
+   "section": "Linear & Quadratic Equations",
+   "title": "Factoring Out Common Factors",
+   "full": "assets/part1/card_068.jpeg",
+   "front": "assets/part1/front/front_068.jpg"
+  },
+  {
+   "gid": 69,
+   "part": 1,
+   "lid": 69,
+   "section": "Linear & Quadratic Equations",
+   "title": "The Zero Product Property",
+   "full": "assets/part1/card_069.jpeg",
+   "front": "assets/part1/front/front_069.jpg"
+  },
+  {
+   "gid": 70,
+   "part": 1,
+   "lid": 70,
+   "section": "Linear & Quadratic Equations",
+   "title": "Factoring Quadratic Equations",
+   "full": "assets/part1/card_070.jpeg",
+   "front": "assets/part1/front/front_070.jpg"
+  },
+  {
+   "gid": 71,
+   "part": 1,
+   "lid": 71,
+   "section": "Linear & Quadratic Equations",
+   "title": "Foiling Quadratic Equations",
+   "full": "assets/part1/card_071.jpeg",
+   "front": "assets/part1/front/front_071.jpg"
+  },
+  {
+   "gid": 72,
+   "part": 1,
+   "lid": 72,
+   "section": "Linear & Quadratic Equations",
+   "title": "Three Common Quadratic Identities",
+   "full": "assets/part1/card_072.jpeg",
+   "front": "assets/part1/front/front_072.jpg"
+  },
+  {
+   "gid": 73,
+   "part": 1,
+   "lid": 73,
+   "section": "Linear & Quadratic Equations",
+   "title": "The Difference of Squares",
+   "full": "assets/part1/card_073.jpeg",
+   "front": "assets/part1/front/front_073.jpg"
+  },
+  {
+   "gid": 74,
+   "part": 1,
+   "lid": 74,
+   "section": "Linear & Quadratic Equations",
+   "title": "Differences of Squares with Roots",
+   "full": "assets/part1/card_074.jpeg",
+   "front": "assets/part1/front/front_074.jpg"
+  },
+  {
+   "gid": 75,
+   "part": 1,
+   "lid": 75,
+   "section": "Linear & Quadratic Equations",
+   "title": "Advanced \u201cFOIL\u201d Techniques",
+   "full": "assets/part1/card_075.jpeg",
+   "front": "assets/part1/front/front_075.jpg"
+  },
+  {
+   "gid": 76,
+   "part": 1,
+   "lid": 76,
+   "section": "Linear & Quadratic Equations",
+   "title": "Another Way to Express Negative One",
+   "full": "assets/part1/card_076.jpeg",
+   "front": "assets/part1/front/front_076.jpg"
+  },
+  {
+   "gid": 77,
+   "part": 1,
+   "lid": 77,
+   "section": "Linear & Quadratic Equations",
+   "title": "Constant Terms and Coefficients in Quadratic Equations",
+   "full": "assets/part1/card_077.jpeg",
+   "front": "assets/part1/front/front_077.jpg"
+  },
+  {
+   "gid": 78,
+   "part": 1,
+   "lid": 78,
+   "section": "Linear & Quadratic Equations",
+   "title": "Quadratic Equations That Result From Removing Fractions",
+   "full": "assets/part1/card_078.jpeg",
+   "front": "assets/part1/front/front_078.jpg"
+  },
+  {
+   "gid": 79,
+   "part": 1,
+   "lid": 79,
+   "section": "Linear & Quadratic Equations",
+   "title": "The Quadratic Formula",
+   "full": "assets/part1/card_079.jpeg",
+   "front": "assets/part1/front/front_079.jpg"
+  },
+  {
+   "gid": 80,
+   "part": 1,
+   "lid": 80,
+   "section": "Linear & Quadratic Equations",
+   "title": "Determining the Number of Roots of a Quadratic Equation",
+   "full": "assets/part1/card_080.jpeg",
+   "front": "assets/part1/front/front_080.jpg"
+  },
+  {
+   "gid": 81,
+   "part": 1,
+   "lid": 81,
+   "section": "Linear & Quadratic Equations",
+   "title": "Vieta\u2019s Formulas for the Roots of a Quadratic Equation",
+   "full": "assets/part1/card_081.jpeg",
+   "front": "assets/part1/front/front_081.jpg"
+  },
+  {
+   "gid": 82,
+   "part": 1,
+   "lid": 82,
+   "section": "Linear & Quadratic Equations",
+   "title": "Hidden Quadratic Equations",
+   "full": "assets/part1/card_082.jpeg",
+   "front": "assets/part1/front/front_082.jpg"
+  },
+  {
+   "gid": 83,
+   "part": 1,
+   "lid": 83,
+   "section": "Linear & Quadratic Equations",
+   "title": "Equation Trap: An Equation Has 2 or More Solutions",
+   "full": "assets/part1/card_083.jpeg",
+   "front": "assets/part1/front/front_083.jpg"
+  },
+  {
+   "gid": 84,
+   "part": 1,
+   "lid": 84,
+   "section": "Linear & Quadratic Equations",
+   "title": "Assuming the Value of a Variable Cannot Be Zero",
+   "full": "assets/part1/card_084.jpeg",
+   "front": "assets/part1/front/front_084.jpg"
+  },
+  {
+   "gid": 85,
+   "part": 1,
+   "lid": 85,
+   "section": "Linear & Quadratic Equations",
+   "title": "Squared Algebraic Expressions",
+   "full": "assets/part1/card_085.jpeg",
+   "front": "assets/part1/front/front_085.jpg"
+  },
+  {
+   "gid": 86,
+   "part": 1,
+   "lid": 86,
+   "section": "Linear & Quadratic Equations",
+   "title": "Implied Differences of Squares",
+   "full": "assets/part1/card_086.jpeg",
+   "front": "assets/part1/front/front_086.jpg"
+  },
+  {
+   "gid": 87,
+   "part": 1,
+   "lid": 87,
+   "section": "Linear & Quadratic Equations",
+   "title": "Using Difference of Squares to Simplify Large Expressions",
+   "full": "assets/part1/card_087.jpeg",
+   "front": "assets/part1/front/front_087.jpg"
+  },
+  {
+   "gid": 88,
+   "part": 1,
+   "lid": 88,
+   "section": "Linear & Quadratic Equations",
+   "title": "When One Equation Determines Unique Values for Two Variables",
+   "full": "assets/part1/card_088.jpeg",
+   "front": "assets/part1/front/front_088.jpg"
+  },
+  {
+   "gid": 89,
+   "part": 1,
+   "lid": 89,
+   "section": "Properties of Numbers",
+   "title": "Factorial Notation",
+   "full": "assets/part1/card_089.jpeg",
+   "front": "assets/part1/front/front_089.jpg"
+  },
+  {
+   "gid": 90,
+   "part": 1,
+   "lid": 90,
+   "section": "Properties of Numbers",
+   "title": "Remainders After Division by 5",
+   "full": "assets/part1/card_090.jpeg",
+   "front": "assets/part1/front/front_090.jpg"
+  },
+  {
+   "gid": 91,
+   "part": 1,
+   "lid": 91,
+   "section": "Properties of Numbers",
+   "title": "Two Consecutive Integers Never Share the Same Prime Factors",
+   "full": "assets/part1/card_091.jpeg",
+   "front": "assets/part1/front/front_091.jpg"
+  },
+  {
+   "gid": 92,
+   "part": 1,
+   "lid": 92,
+   "section": "Properties of Numbers",
+   "title": "Properties of Zero",
+   "full": "assets/part1/card_092.jpeg",
+   "front": "assets/part1/front/front_092.jpg"
+  },
+  {
+   "gid": 93,
+   "part": 1,
+   "lid": 93,
+   "section": "Properties of Numbers",
+   "title": "Properties of One",
+   "full": "assets/part1/card_093.jpeg",
+   "front": "assets/part1/front/front_093.jpg"
+  },
+  {
+   "gid": 94,
+   "part": 1,
+   "lid": 94,
+   "section": "Properties of Numbers",
+   "title": "Unique Prime Factors Don\u2019t Change When a Number is Raised to a Power",
+   "full": "assets/part1/card_094.jpeg",
+   "front": "assets/part1/front/front_094.jpg"
+  },
+  {
+   "gid": 95,
+   "part": 1,
+   "lid": 95,
+   "section": "Properties of Numbers",
+   "title": "A Second Approach to Finding the GCF",
+   "full": "assets/part1/card_095.jpeg",
+   "front": "assets/part1/front/front_095.jpg"
+  },
+  {
+   "gid": 96,
+   "part": 1,
+   "lid": 96,
+   "section": "Properties of Numbers",
+   "title": "The LCM Provides All Unique Prime Factors of a Set of Integers",
+   "full": "assets/part1/card_096.jpeg",
+   "front": "assets/part1/front/front_096.jpg"
+  },
+  {
+   "gid": 97,
+   "part": 1,
+   "lid": 97,
+   "section": "Properties of Numbers",
+   "title": "If x is Divisible by Two Numbers, x is Divisible by Their LCM",
+   "full": "assets/part1/card_097.jpeg",
+   "front": "assets/part1/front/front_097.jpg"
+  },
+  {
+   "gid": 98,
+   "part": 1,
+   "lid": 98,
+   "section": "Properties of Numbers",
+   "title": "Addition and Subtraction Rules for Even Numbers",
+   "full": "assets/part1/card_098.jpeg",
+   "front": "assets/part1/front/front_098.jpg"
+  },
+  {
+   "gid": 99,
+   "part": 1,
+   "lid": 99,
+   "section": "Properties of Numbers",
+   "title": "Multiplication Rules for Even and Odd Numbers",
+   "full": "assets/part1/card_099.jpeg",
+   "front": "assets/part1/front/front_099.jpg"
+  },
+  {
+   "gid": 100,
+   "part": 1,
+   "lid": 100,
+   "section": "Properties of Numbers",
+   "title": "Division Rules for Even and Odd Numbers",
+   "full": "assets/part1/card_100.jpeg",
+   "front": "assets/part1/front/front_100.jpg"
+  },
+  {
+   "gid": 101,
+   "part": 1,
+   "lid": 101,
+   "section": "Properties of Numbers",
+   "title": "Test for Even and Odd Algebraic Expressions",
+   "full": "assets/part1/card_101.jpeg",
+   "front": "assets/part1/front/front_101.jpg"
+  },
+  {
+   "gid": 102,
+   "part": 1,
+   "lid": 102,
+   "section": "Properties of Numbers",
+   "title": "Even/Odd Exponents Versus Positive/Negative Answers",
+   "full": "assets/part1/card_102.jpeg",
+   "front": "assets/part1/front/front_102.jpg"
+  },
+  {
+   "gid": 103,
+   "part": 1,
+   "lid": 103,
+   "section": "Properties of Numbers",
+   "title": "Factors",
+   "full": "assets/part1/card_103.jpeg",
+   "front": "assets/part1/front/front_103.jpg"
+  },
+  {
+   "gid": 104,
+   "part": 1,
+   "lid": 104,
+   "section": "Properties of Numbers",
+   "title": "Multiples",
+   "full": "assets/part1/card_104.jpeg",
+   "front": "assets/part1/front/front_104.jpg"
+  },
+  {
+   "gid": 105,
+   "part": 1,
+   "lid": 105,
+   "section": "Properties of Numbers",
+   "title": "Prime Numbers",
+   "full": "assets/part1/card_105.jpeg",
+   "front": "assets/part1/front/front_105.jpg"
+  },
+  {
+   "gid": 106,
+   "part": 1,
+   "lid": 106,
+   "section": "Properties of Numbers",
+   "title": "Finding the Number of Prime Factors of a Number",
+   "full": "assets/part1/card_106.jpeg",
+   "front": "assets/part1/front/front_106.jpg"
+  },
+  {
+   "gid": 107,
+   "part": 1,
+   "lid": 107,
+   "section": "Properties of Numbers",
+   "title": "Finding the Number of Odd Positive Factors of a Number",
+   "full": "assets/part1/card_107.jpeg",
+   "front": "assets/part1/front/front_107.jpg"
+  },
+  {
+   "gid": 108,
+   "part": 1,
+   "lid": 108,
+   "section": "Properties of Numbers",
+   "title": "Number of Prime Factors vs. Unique Prime Factors",
+   "full": "assets/part1/card_108.jpeg",
+   "front": "assets/part1/front/front_108.jpg"
+  },
+  {
+   "gid": 109,
+   "part": 1,
+   "lid": 109,
+   "section": "Properties of Numbers",
+   "title": "Prime Factorization When the Exponents are Variables",
+   "full": "assets/part1/card_109.jpeg",
+   "front": "assets/part1/front/front_109.jpg"
+  },
+  {
+   "gid": 110,
+   "part": 1,
+   "lid": 110,
+   "section": "Properties of Numbers",
+   "title": "The Least Common Multiple (LCM)",
+   "full": "assets/part1/card_110.jpeg",
+   "front": "assets/part1/front/front_110.jpg"
+  },
+  {
+   "gid": 111,
+   "part": 1,
+   "lid": 111,
+   "section": "Properties of Numbers",
+   "title": "A Second Approach to Finding the LCM",
+   "full": "assets/part1/card_111.jpeg",
+   "front": "assets/part1/front/front_111.jpg"
+  },
+  {
+   "gid": 112,
+   "part": 1,
+   "lid": 112,
+   "section": "Properties of Numbers",
+   "title": "The Greatest Common Factor (GCF)",
+   "full": "assets/part1/card_112.jpeg",
+   "front": "assets/part1/front/front_112.jpg"
+  },
+  {
+   "gid": 113,
+   "part": 1,
+   "lid": 113,
+   "section": "Properties of Numbers",
+   "title": "LCM and GCF When One Number Divides Evenly Into the Other",
+   "full": "assets/part1/card_113.jpeg",
+   "front": "assets/part1/front/front_113.jpg"
+  },
+  {
+   "gid": 114,
+   "part": 1,
+   "lid": 114,
+   "section": "Properties of Numbers",
+   "title": "Knowing LCM and GCF Gives the Product of Two Integers",
+   "full": "assets/part1/card_114.jpeg",
+   "front": "assets/part1/front/front_114.jpg"
+  },
+  {
+   "gid": 115,
+   "part": 1,
+   "lid": 115,
+   "section": "Properties of Numbers",
+   "title": "Using the LCM to Solve Repeating-Pattern Questions",
+   "full": "assets/part1/card_115.jpeg",
+   "front": "assets/part1/front/front_115.jpg"
+  },
+  {
+   "gid": 116,
+   "part": 1,
+   "lid": 116,
+   "section": "Properties of Numbers",
+   "title": "For Divisibility, Think About Prime Factorization",
+   "full": "assets/part1/card_116.jpeg",
+   "front": "assets/part1/front/front_116.jpg"
+  },
+  {
+   "gid": 117,
+   "part": 1,
+   "lid": 117,
+   "section": "Properties of Numbers",
+   "title": "Factors of Factors",
+   "full": "assets/part1/card_117.jpeg",
+   "front": "assets/part1/front/front_117.jpg"
+  },
+  {
+   "gid": 118,
+   "part": 1,
+   "lid": 118,
+   "section": "Properties of Numbers",
+   "title": "Evaluating Divisibility Expressions",
+   "full": "assets/part1/card_118.jpeg",
+   "front": "assets/part1/front/front_118.jpg"
+  },
+  {
+   "gid": 119,
+   "part": 1,
+   "lid": 119,
+   "section": "Properties of Numbers",
+   "title": "Divisibility Rules: Part 1",
+   "full": "assets/part1/card_119.jpeg",
+   "front": "assets/part1/front/front_119.jpg"
+  },
+  {
+   "gid": 120,
+   "part": 1,
+   "lid": 120,
+   "section": "Properties of Numbers",
+   "title": "The Product of n Consecutive Integers is Divisible by n!",
+   "full": "assets/part1/card_120.jpeg",
+   "front": "assets/part1/front/front_120.jpg"
+  },
+  {
+   "gid": 121,
+   "part": 1,
+   "lid": 121,
+   "section": "Properties of Numbers",
+   "title": "The Product of Consecutive Integers in Algebraic Expressions",
+   "full": "assets/part1/card_121.jpeg",
+   "front": "assets/part1/front/front_121.jpg"
+  },
+  {
+   "gid": 122,
+   "part": 1,
+   "lid": 122,
+   "section": "Properties of Numbers",
+   "title": "Product of Consecutive Even Integers",
+   "full": "assets/part1/card_122.jpeg",
+   "front": "assets/part1/front/front_122.jpg"
+  },
+  {
+   "gid": 123,
+   "part": 1,
+   "lid": 123,
+   "section": "Properties of Numbers",
+   "title": "A Formula for Division",
+   "full": "assets/part1/card_123.jpeg",
+   "front": "assets/part1/front/front_123.jpg"
+  },
+  {
+   "gid": 124,
+   "part": 1,
+   "lid": 124,
+   "section": "Properties of Numbers",
+   "title": "The Range of Possible Remainders",
+   "full": "assets/part1/card_124.jpeg",
+   "front": "assets/part1/front/front_124.jpg"
+  },
+  {
+   "gid": 125,
+   "part": 1,
+   "lid": 125,
+   "section": "Properties of Numbers",
+   "title": "Listing Possible Values of the Dividend",
+   "full": "assets/part1/card_125.jpeg",
+   "front": "assets/part1/front/front_125.jpg"
+  },
+  {
+   "gid": 126,
+   "part": 1,
+   "lid": 126,
+   "section": "Properties of Numbers",
+   "title": "Combining Remainder Information",
+   "full": "assets/part1/card_126.jpeg",
+   "front": "assets/part1/front/front_126.jpg"
+  },
+  {
+   "gid": 127,
+   "part": 1,
+   "lid": 127,
+   "section": "Properties of Numbers",
+   "title": "Converting a Remainder From Decimal Form to Fraction Form",
+   "full": "assets/part1/card_127.jpeg",
+   "front": "assets/part1/front/front_127.jpg"
+  },
+  {
+   "gid": 128,
+   "part": 1,
+   "lid": 128,
+   "section": "Properties of Numbers",
+   "title": "Multiplying Remainders",
+   "full": "assets/part1/card_128.jpeg",
+   "front": "assets/part1/front/front_128.jpg"
+  },
+  {
+   "gid": 129,
+   "part": 1,
+   "lid": 129,
+   "section": "Properties of Numbers",
+   "title": "Adding and Subtracting Remainders",
+   "full": "assets/part1/card_129.jpeg",
+   "front": "assets/part1/front/front_129.jpg"
+  },
+  {
+   "gid": 130,
+   "part": 1,
+   "lid": 130,
+   "section": "Properties of Numbers",
+   "title": "Determining the Number of Trailing Zeros",
+   "full": "assets/part1/card_130.jpeg",
+   "front": "assets/part1/front/front_130.jpg"
+  },
+  {
+   "gid": 131,
+   "part": 1,
+   "lid": 131,
+   "section": "Properties of Numbers",
+   "title": "Using Trailing Zeros to Determine the Number of Digits",
+   "full": "assets/part1/card_131.jpeg",
+   "front": "assets/part1/front/front_131.jpg"
+  },
+  {
+   "gid": 132,
+   "part": 1,
+   "lid": 132,
+   "section": "Properties of Numbers",
+   "title": "Determining the Number of Leading Zeros in a Decimal",
+   "full": "assets/part1/card_132.jpeg",
+   "front": "assets/part1/front/front_132.jpg"
+  },
+  {
+   "gid": 133,
+   "part": 1,
+   "lid": 133,
+   "section": "Properties of Numbers",
+   "title": "Division Properties of Factorials",
+   "full": "assets/part1/card_133.jpeg",
+   "front": "assets/part1/front/front_133.jpg"
+  },
+  {
+   "gid": 134,
+   "part": 1,
+   "lid": 134,
+   "section": "Properties of Numbers",
+   "title": "Number of Primes in a Factorial (Shortcut)",
+   "full": "assets/part1/card_134.jpeg",
+   "front": "assets/part1/front/front_134.jpg"
+  },
+  {
+   "gid": 135,
+   "part": 1,
+   "lid": 135,
+   "section": "Properties of Numbers",
+   "title": "Number of Primes in a Factorial: Non-Prime Divisor Base",
+   "full": "assets/part1/card_135.jpeg",
+   "front": "assets/part1/front/front_135.jpg"
+  },
+  {
+   "gid": 136,
+   "part": 1,
+   "lid": 136,
+   "section": "Properties of Numbers",
+   "title": "Number of Primes in a Factorial: Prime-Power Divisor Base",
+   "full": "assets/part1/card_136.jpeg",
+   "front": "assets/part1/front/front_136.jpg"
+  },
+  {
+   "gid": 137,
+   "part": 1,
+   "lid": 137,
+   "section": "Properties of Numbers",
+   "title": "Prime Factorization of a Perfect Square Has Only Even Exponents",
+   "full": "assets/part1/card_137.jpeg",
+   "front": "assets/part1/front/front_137.jpg"
+  },
+  {
+   "gid": 138,
+   "part": 1,
+   "lid": 138,
+   "section": "Properties of Numbers",
+   "title": "Prime Factorization of a Perfect Cube: Exponents are Multiples of 3",
+   "full": "assets/part1/card_138.jpeg",
+   "front": "assets/part1/front/front_138.jpg"
+  },
+  {
+   "gid": 139,
+   "part": 1,
+   "lid": 139,
+   "section": "Properties of Numbers",
+   "title": "Terminating Decimals",
+   "full": "assets/part1/card_139.jpeg",
+   "front": "assets/part1/front/front_139.jpg"
+  },
+  {
+   "gid": 140,
+   "part": 1,
+   "lid": 140,
+   "section": "Properties of Numbers",
+   "title": "Remainders Exhibit Patterns",
+   "full": "assets/part1/card_140.jpeg",
+   "front": "assets/part1/front/front_140.jpg"
+  },
+  {
+   "gid": 141,
+   "part": 1,
+   "lid": 141,
+   "section": "Properties of Numbers",
+   "title": "Remainder Patterns in Powers",
+   "full": "assets/part1/card_141.jpeg",
+   "front": "assets/part1/front/front_141.jpg"
+  },
+  {
+   "gid": 142,
+   "part": 1,
+   "lid": 142,
+   "section": "Properties of Numbers",
+   "title": "Units Digits that Have No Change",
+   "full": "assets/part1/card_142.jpeg",
+   "front": "assets/part1/front/front_142.jpg"
+  },
+  {
+   "gid": 143,
+   "part": 1,
+   "lid": 143,
+   "section": "Properties of Numbers",
+   "title": "Remainders After Division by 10^n",
+   "full": "assets/part1/card_143.jpeg",
+   "front": "assets/part1/front/front_143.jpg"
+  },
+  {
+   "gid": 144,
+   "part": 1,
+   "lid": 144,
+   "section": "Properties of Numbers",
+   "title": "Addition and Subtraction Rules for Odd Numbers",
+   "full": "assets/part1/card_144.jpeg",
+   "front": "assets/part1/front/front_144.jpg"
+  },
+  {
+   "gid": 145,
+   "part": 1,
+   "lid": 145,
+   "section": "Properties of Numbers",
+   "title": "Divisibility Rules: Part 2",
+   "full": "assets/part1/card_145.jpeg",
+   "front": "assets/part1/front/front_145.jpg"
+  },
+  {
+   "gid": 146,
+   "part": 1,
+   "lid": 146,
+   "section": "Properties of Numbers",
+   "title": "Division Rules for Even and Odd Numbers",
+   "full": "assets/part1/card_146.jpeg",
+   "front": "assets/part1/front/front_146.jpg"
+  },
+  {
+   "gid": 147,
+   "part": 1,
+   "lid": 147,
+   "section": "Properties of Numbers",
+   "title": "Units Digits that Have a Pattern of Four",
+   "full": "assets/part1/card_147.jpeg",
+   "front": "assets/part1/front/front_147.jpg"
+  },
+  {
+   "gid": 148,
+   "part": 1,
+   "lid": 148,
+   "section": "Properties of Numbers",
+   "title": "Units Digits that Have a Pattern of Two",
+   "full": "assets/part1/card_148.jpeg",
+   "front": "assets/part1/front/front_148.jpg"
+  },
+  {
+   "gid": 149,
+   "part": 1,
+   "lid": 149,
+   "section": "Properties of Numbers",
+   "title": "Divisibility Rules: Part 3",
+   "full": "assets/part1/card_149.jpeg",
+   "front": "assets/part1/front/front_149.jpg"
+  },
+  {
+   "gid": 150,
+   "part": 1,
+   "lid": 150,
+   "section": "Properties of Numbers",
+   "title": "Units Digits that Have a Pattern of One",
+   "full": "assets/part1/card_150.jpeg",
+   "front": "assets/part1/front/front_150.jpg"
+  },
+  {
+   "gid": 151,
+   "part": 1,
+   "lid": 151,
+   "section": "Properties of Numbers",
+   "title": "Divisibility Rules: Part 4",
+   "full": "assets/part1/card_151.jpeg",
+   "front": "assets/part1/front/front_151.jpg"
+  },
+  {
+   "gid": 152,
+   "part": 1,
+   "lid": 152,
+   "section": "Properties of Numbers",
+   "title": "Divisibility Rules: Part 5",
+   "full": "assets/part1/card_152.jpeg",
+   "front": "assets/part1/front/front_152.jpg"
+  },
+  {
+   "gid": 153,
+   "part": 1,
+   "lid": 153,
+   "section": "Roots & Exponents",
+   "title": "Power to a Power to a Power Rule",
+   "full": "assets/part1/card_153.jpeg",
+   "front": "assets/part1/front/front_153.jpg"
+  },
+  {
+   "gid": 154,
+   "part": 1,
+   "lid": 154,
+   "section": "Roots & Exponents",
+   "title": "Number Properties of Exponents and Roots for Numbers > 1",
+   "full": "assets/part1/card_154.jpeg",
+   "front": "assets/part1/front/front_154.jpg"
+  },
+  {
+   "gid": 155,
+   "part": 1,
+   "lid": 155,
+   "section": "Roots & Exponents",
+   "title": "Estimating with Exponents",
+   "full": "assets/part1/card_155.jpeg",
+   "front": "assets/part1/front/front_155.jpg"
+  },
+  {
+   "gid": 156,
+   "part": 1,
+   "lid": 156,
+   "section": "Roots & Exponents",
+   "title": "Powers of Ten",
+   "full": "assets/part1/card_156.jpeg",
+   "front": "assets/part1/front/front_156.jpg"
+  },
+  {
+   "gid": 157,
+   "part": 1,
+   "lid": 157,
+   "section": "Roots & Exponents",
+   "title": "Scientific Notation",
+   "full": "assets/part1/card_157.jpeg",
+   "front": "assets/part1/front/front_157.jpg"
+  },
+  {
+   "gid": 158,
+   "part": 1,
+   "lid": 158,
+   "section": "Roots & Exponents",
+   "title": "Multiplication and Division with Scientific Notation",
+   "full": "assets/part1/card_158.jpeg",
+   "front": "assets/part1/front/front_158.jpg"
+  },
+  {
+   "gid": 159,
+   "part": 1,
+   "lid": 159,
+   "section": "Roots & Exponents",
+   "title": "Square Roots of Large Perfect Squares",
+   "full": "assets/part1/card_159.jpeg",
+   "front": "assets/part1/front/front_159.jpg"
+  },
+  {
+   "gid": 160,
+   "part": 1,
+   "lid": 160,
+   "section": "Roots & Exponents",
+   "title": "Roots of Small Perfect Squares",
+   "full": "assets/part1/card_160.jpeg",
+   "front": "assets/part1/front/front_160.jpg"
+  },
+  {
+   "gid": 161,
+   "part": 1,
+   "lid": 161,
+   "section": "Roots & Exponents",
+   "title": "Squaring Decimals with Zeros",
+   "full": "assets/part1/card_161.jpeg",
+   "front": "assets/part1/front/front_161.jpg"
+  },
+  {
+   "gid": 162,
+   "part": 1,
+   "lid": 162,
+   "section": "Roots & Exponents",
+   "title": "The Square Root Symbol",
+   "full": "assets/part1/card_162.jpeg",
+   "front": "assets/part1/front/front_162.jpg"
+  },
+  {
+   "gid": 163,
+   "part": 1,
+   "lid": 163,
+   "section": "Roots & Exponents",
+   "title": "Even-Indexed Roots",
+   "full": "assets/part1/card_163.jpeg",
+   "front": "assets/part1/front/front_163.jpg"
+  },
+  {
+   "gid": 164,
+   "part": 1,
+   "lid": 164,
+   "section": "Roots & Exponents",
+   "title": "Perfect Squares",
+   "full": "assets/part1/card_164.jpeg",
+   "front": "assets/part1/front/front_164.jpg"
+  },
+  {
+   "gid": 165,
+   "part": 2,
+   "lid": 1,
+   "section": "Roots & Exponents",
+   "title": "The Cube Root",
+   "full": "assets/part2/card_001.jpeg",
+   "front": "assets/part2/front/front_001.jpg"
+  },
+  {
+   "gid": 166,
+   "part": 2,
+   "lid": 2,
+   "section": "Roots & Exponents",
+   "title": "Multiplying Radicals",
+   "full": "assets/part2/card_002.jpeg",
+   "front": "assets/part2/front/front_002.jpg"
+  },
+  {
+   "gid": 167,
+   "part": 2,
+   "lid": 3,
+   "section": "Roots & Exponents",
+   "title": "Simplifying Radicals",
+   "full": "assets/part2/card_003.jpeg",
+   "front": "assets/part2/front/front_003.jpg"
+  },
+  {
+   "gid": 168,
+   "part": 2,
+   "lid": 4,
+   "section": "Roots & Exponents",
+   "title": "Dividing Radicals",
+   "full": "assets/part2/card_004.jpeg",
+   "front": "assets/part2/front/front_004.jpg"
+  },
+  {
+   "gid": 169,
+   "part": 2,
+   "lid": 5,
+   "section": "Roots & Exponents",
+   "title": "Multiply/Divide Non-Radicals by Non-Radicals and Radicals by Radicals",
+   "full": "assets/part2/card_005.jpeg",
+   "front": "assets/part2/front/front_005.jpg"
+  },
+  {
+   "gid": 170,
+   "part": 2,
+   "lid": 6,
+   "section": "Roots & Exponents",
+   "title": "Approximating Square Roots",
+   "full": "assets/part2/card_006.jpeg",
+   "front": "assets/part2/front/front_006.jpg"
+  },
+  {
+   "gid": 171,
+   "part": 2,
+   "lid": 7,
+   "section": "Roots & Exponents",
+   "title": "Approximating Other Roots",
+   "full": "assets/part2/card_007.jpeg",
+   "front": "assets/part2/front/front_007.jpg"
+  },
+  {
+   "gid": 172,
+   "part": 2,
+   "lid": 8,
+   "section": "Roots & Exponents",
+   "title": "Addition and Subtraction of Radicals",
+   "full": "assets/part2/card_008.jpeg",
+   "front": "assets/part2/front/front_008.jpg"
+  },
+  {
+   "gid": 173,
+   "part": 2,
+   "lid": 9,
+   "section": "Roots & Exponents",
+   "title": "Add and Subtract Only Like Radicals",
+   "full": "assets/part2/card_009.jpeg",
+   "front": "assets/part2/front/front_009.jpg"
+  },
+  {
+   "gid": 174,
+   "part": 2,
+   "lid": 10,
+   "section": "Roots & Exponents",
+   "title": "Rationalization: Single-Term Radical in the Denominator",
+   "full": "assets/part2/card_010.jpeg",
+   "front": "assets/part2/front/front_010.jpg"
+  },
+  {
+   "gid": 175,
+   "part": 2,
+   "lid": 11,
+   "section": "Roots & Exponents",
+   "title": "Rationalization: Binomial Denominator with a Radical",
+   "full": "assets/part2/card_011.jpeg",
+   "front": "assets/part2/front/front_011.jpg"
+  },
+  {
+   "gid": 176,
+   "part": 2,
+   "lid": 12,
+   "section": "Roots & Exponents",
+   "title": "Taking the Nth Root of an Expression or an Equation",
+   "full": "assets/part2/card_012.jpeg",
+   "front": "assets/part2/front/front_012.jpg"
+  },
+  {
+   "gid": 177,
+   "part": 2,
+   "lid": 13,
+   "section": "Roots & Exponents",
+   "title": "Be Careful Taking the Square Root of a Squared Binomial",
+   "full": "assets/part2/card_013.jpeg",
+   "front": "assets/part2/front/front_013.jpg"
+  },
+  {
+   "gid": 178,
+   "part": 2,
+   "lid": 14,
+   "section": "Roots & Exponents",
+   "title": "Solving Equations with Square Roots",
+   "full": "assets/part2/card_014.jpeg",
+   "front": "assets/part2/front/front_014.jpg"
+  },
+  {
+   "gid": 179,
+   "part": 2,
+   "lid": 15,
+   "section": "Roots & Exponents",
+   "title": "If the Bases are Equal, the Exponents May be Equal",
+   "full": "assets/part2/card_015.jpeg",
+   "front": "assets/part2/front/front_015.jpg"
+  },
+  {
+   "gid": 180,
+   "part": 2,
+   "lid": 16,
+   "section": "Roots & Exponents",
+   "title": "Multiplication of Exponential Expressions with the Same Base",
+   "full": "assets/part2/card_016.jpeg",
+   "front": "assets/part2/front/front_016.jpg"
+  },
+  {
+   "gid": 181,
+   "part": 2,
+   "lid": 17,
+   "section": "Roots & Exponents",
+   "title": "Division of Exponential Expressions with the Same Base",
+   "full": "assets/part2/card_017.jpeg",
+   "front": "assets/part2/front/front_017.jpg"
+  },
+  {
+   "gid": 182,
+   "part": 2,
+   "lid": 18,
+   "section": "Roots & Exponents",
+   "title": "The Power to a Power Rule",
+   "full": "assets/part2/card_018.jpeg",
+   "front": "assets/part2/front/front_018.jpg"
+  },
+  {
+   "gid": 183,
+   "part": 2,
+   "lid": 19,
+   "section": "Roots & Exponents",
+   "title": "If the Bases Are Not the Same, Make Them the Same",
+   "full": "assets/part2/card_019.jpeg",
+   "front": "assets/part2/front/front_019.jpg"
+  },
+  {
+   "gid": 184,
+   "part": 2,
+   "lid": 20,
+   "section": "Roots & Exponents",
+   "title": "Multiplication of Exponentials with Different Bases and Like Exponents",
+   "full": "assets/part2/card_020.jpeg",
+   "front": "assets/part2/front/front_020.jpg"
+  },
+  {
+   "gid": 185,
+   "part": 2,
+   "lid": 21,
+   "section": "Roots & Exponents",
+   "title": "Division of Different Bases and Like Exponents",
+   "full": "assets/part2/card_021.jpeg",
+   "front": "assets/part2/front/front_021.jpg"
+  },
+  {
+   "gid": 186,
+   "part": 2,
+   "lid": 22,
+   "section": "Roots & Exponents",
+   "title": "Distributing an Exponent over Multiple Factors",
+   "full": "assets/part2/card_022.jpeg",
+   "front": "assets/part2/front/front_022.jpg"
+  },
+  {
+   "gid": 187,
+   "part": 2,
+   "lid": 23,
+   "section": "Roots & Exponents",
+   "title": "Prime Factorization with Exponents",
+   "full": "assets/part2/card_023.jpeg",
+   "front": "assets/part2/front/front_023.jpg"
+  },
+  {
+   "gid": 188,
+   "part": 2,
+   "lid": 24,
+   "section": "Roots & Exponents",
+   "title": "Prime Factorization Simplifies Fractional Exponential Expressions",
+   "full": "assets/part2/card_024.jpeg",
+   "front": "assets/part2/front/front_024.jpg"
+  },
+  {
+   "gid": 189,
+   "part": 2,
+   "lid": 25,
+   "section": "Roots & Exponents",
+   "title": "Radicals Can Be Expressed in Exponential Form",
+   "full": "assets/part2/card_025.jpeg",
+   "front": "assets/part2/front/front_025.jpg"
+  },
+  {
+   "gid": 190,
+   "part": 2,
+   "lid": 26,
+   "section": "Roots & Exponents",
+   "title": "Nested Roots",
+   "full": "assets/part2/card_026.jpeg",
+   "front": "assets/part2/front/front_026.jpg"
+  },
+  {
+   "gid": 191,
+   "part": 2,
+   "lid": 27,
+   "section": "Roots & Exponents",
+   "title": "Removing the Radical and the Exponent",
+   "full": "assets/part2/card_027.jpeg",
+   "front": "assets/part2/front/front_027.jpg"
+  },
+  {
+   "gid": 192,
+   "part": 2,
+   "lid": 28,
+   "section": "Roots & Exponents",
+   "title": "Comparing Roots",
+   "full": "assets/part2/card_028.jpeg",
+   "front": "assets/part2/front/front_028.jpg"
+  },
+  {
+   "gid": 193,
+   "part": 2,
+   "lid": 29,
+   "section": "Roots & Exponents",
+   "title": "Be Careful When Squaring a Binomial",
+   "full": "assets/part2/card_029.jpeg",
+   "front": "assets/part2/front/front_029.jpg"
+  },
+  {
+   "gid": 194,
+   "part": 2,
+   "lid": 30,
+   "section": "Roots & Exponents",
+   "title": "Raising a Base to a Negative Exponent",
+   "full": "assets/part2/card_030.jpeg",
+   "front": "assets/part2/front/front_030.jpg"
+  },
+  {
+   "gid": 195,
+   "part": 2,
+   "lid": 31,
+   "section": "Roots & Exponents",
+   "title": "Quadratic Expressions as Exponents",
+   "full": "assets/part2/card_031.jpeg",
+   "front": "assets/part2/front/front_031.jpg"
+  },
+  {
+   "gid": 196,
+   "part": 2,
+   "lid": 32,
+   "section": "Roots & Exponents",
+   "title": "Any Nonzero Base Raised to the Zero Power Equals One",
+   "full": "assets/part2/card_032.jpeg",
+   "front": "assets/part2/front/front_032.jpg"
+  },
+  {
+   "gid": 197,
+   "part": 2,
+   "lid": 33,
+   "section": "Roots & Exponents",
+   "title": "Any Base Raised to the 1st Power is that Base",
+   "full": "assets/part2/card_033.jpeg",
+   "front": "assets/part2/front/front_033.jpg"
+  },
+  {
+   "gid": 198,
+   "part": 2,
+   "lid": 34,
+   "section": "Roots & Exponents",
+   "title": "Addition/Subtraction of Like Bases or Like Radicals",
+   "full": "assets/part2/card_034.jpeg",
+   "front": "assets/part2/front/front_034.jpg"
+  },
+  {
+   "gid": 199,
+   "part": 2,
+   "lid": 35,
+   "section": "Roots & Exponents",
+   "title": "A Special Trick When Adding Like Bases with Equal Exponents",
+   "full": "assets/part2/card_035.jpeg",
+   "front": "assets/part2/front/front_035.jpg"
+  },
+  {
+   "gid": 200,
+   "part": 2,
+   "lid": 36,
+   "section": "Roots & Exponents",
+   "title": "Adding and Subtracting Fractions that Contain Exponents",
+   "full": "assets/part2/card_036.jpeg",
+   "front": "assets/part2/front/front_036.jpg"
+  },
+  {
+   "gid": 201,
+   "part": 2,
+   "lid": 37,
+   "section": "Roots & Exponents",
+   "title": "Comparing Fractions with Exponents",
+   "full": "assets/part2/card_037.jpeg",
+   "front": "assets/part2/front/front_037.jpg"
+  },
+  {
+   "gid": 202,
+   "part": 2,
+   "lid": 38,
+   "section": "Roots & Exponents",
+   "title": "Multiplying Radicals with Different Indices",
+   "full": "assets/part2/card_038.jpeg",
+   "front": "assets/part2/front/front_038.jpg"
+  },
+  {
+   "gid": 203,
+   "part": 2,
+   "lid": 39,
+   "section": "Roots & Exponents",
+   "title": "Number Properties of Exponents and Roots for Numbers < -1",
+   "full": "assets/part2/card_039.jpeg",
+   "front": "assets/part2/front/front_039.jpg"
+  },
+  {
+   "gid": 204,
+   "part": 2,
+   "lid": 40,
+   "section": "Roots & Exponents",
+   "title": "The Square Root of a Squared Entity",
+   "full": "assets/part2/card_040.jpeg",
+   "front": "assets/part2/front/front_040.jpg"
+  },
+  {
+   "gid": 205,
+   "part": 2,
+   "lid": 41,
+   "section": "Roots & Exponents",
+   "title": "Odd-Indexed Roots",
+   "full": "assets/part2/card_041.jpeg",
+   "front": "assets/part2/front/front_041.jpg"
+  },
+  {
+   "gid": 206,
+   "part": 2,
+   "lid": 42,
+   "section": "Roots & Exponents",
+   "title": "Roots of Large Perfect Powers",
+   "full": "assets/part2/card_042.jpeg",
+   "front": "assets/part2/front/front_042.jpg"
+  },
+  {
+   "gid": 207,
+   "part": 2,
+   "lid": 43,
+   "section": "Roots & Exponents",
+   "title": "Square Roots of Small Perfect Squares",
+   "full": "assets/part2/card_043.jpeg",
+   "front": "assets/part2/front/front_043.jpg"
+  },
+  {
+   "gid": 208,
+   "part": 2,
+   "lid": 44,
+   "section": "Roots & Exponents",
+   "title": "Comparing Exponents",
+   "full": "assets/part2/card_044.jpeg",
+   "front": "assets/part2/front/front_044.jpg"
+  },
+  {
+   "gid": 209,
+   "part": 2,
+   "lid": 45,
+   "section": "Roots & Exponents",
+   "title": "Number Properties of Exponents/Roots for Numbers Between 0 and 1",
+   "full": "assets/part2/card_045.jpeg",
+   "front": "assets/part2/front/front_045.jpg"
+  },
+  {
+   "gid": 210,
+   "part": 2,
+   "lid": 46,
+   "section": "Roots & Exponents",
+   "title": "Number Properties of Exponents/Roots for Numbers Between 0 and -1",
+   "full": "assets/part2/card_046.jpeg",
+   "front": "assets/part2/front/front_046.jpg"
+  },
+  {
+   "gid": 211,
+   "part": 2,
+   "lid": 47,
+   "section": "Inequalities & Absolute Values",
+   "title": "The Real Number Line",
+   "full": "assets/part2/card_047.jpeg",
+   "front": "assets/part2/front/front_047.jpg"
+  },
+  {
+   "gid": 212,
+   "part": 2,
+   "lid": 48,
+   "section": "Inequalities & Absolute Values",
+   "title": "Absolute Value",
+   "full": "assets/part2/card_048.jpeg",
+   "front": "assets/part2/front/front_048.jpg"
+  },
+  {
+   "gid": 213,
+   "part": 2,
+   "lid": 49,
+   "section": "Inequalities & Absolute Values",
+   "title": "Solving Equations with Absolute Values",
+   "full": "assets/part2/card_049.jpeg",
+   "front": "assets/part2/front/front_049.jpg"
+  },
+  {
+   "gid": 214,
+   "part": 2,
+   "lid": 50,
+   "section": "Inequalities & Absolute Values",
+   "title": "When Two Absolute Values Are Equal",
+   "full": "assets/part2/card_050.jpeg",
+   "front": "assets/part2/front/front_050.jpg"
+  },
+  {
+   "gid": 215,
+   "part": 2,
+   "lid": 51,
+   "section": "Inequalities & Absolute Values",
+   "title": "Inequalities with Absolute Values",
+   "full": "assets/part2/card_051.jpeg",
+   "front": "assets/part2/front/front_051.jpg"
+  },
+  {
+   "gid": 216,
+   "part": 2,
+   "lid": 52,
+   "section": "Inequalities & Absolute Values",
+   "title": "Beware of Inequalities with Multiple Unknown Variables",
+   "full": "assets/part2/card_052.jpeg",
+   "front": "assets/part2/front/front_052.jpg"
+  },
+  {
+   "gid": 217,
+   "part": 2,
+   "lid": 53,
+   "section": "Inequalities & Absolute Values",
+   "title": "Simplifying Inequalities with x squared",
+   "full": "assets/part2/card_053.jpeg",
+   "front": "assets/part2/front/front_053.jpg"
+  },
+  {
+   "gid": 218,
+   "part": 2,
+   "lid": 54,
+   "section": "Inequalities & Absolute Values",
+   "title": "Checking Solutions in Absolute-Value Equations",
+   "full": "assets/part2/card_054.jpeg",
+   "front": "assets/part2/front/front_054.jpg"
+  },
+  {
+   "gid": 219,
+   "part": 2,
+   "lid": 55,
+   "section": "Inequalities & Absolute Values",
+   "title": "The Minimum or Maximum Value of a Product",
+   "full": "assets/part2/card_055.jpeg",
+   "front": "assets/part2/front/front_055.jpg"
+  },
+  {
+   "gid": 220,
+   "part": 2,
+   "lid": 56,
+   "section": "Inequalities & Absolute Values",
+   "title": "Moving from Solving Equations to Solving Inequalities",
+   "full": "assets/part2/card_056.jpeg",
+   "front": "assets/part2/front/front_056.jpg"
+  },
+  {
+   "gid": 221,
+   "part": 2,
+   "lid": 57,
+   "section": "Inequalities & Absolute Values",
+   "title": "Multiplying or Dividing an Inequality by a Negative Number",
+   "full": "assets/part2/card_057.jpeg",
+   "front": "assets/part2/front/front_057.jpg"
+  },
+  {
+   "gid": 222,
+   "part": 2,
+   "lid": 58,
+   "section": "Inequalities & Absolute Values",
+   "title": "Systems of Inequalities",
+   "full": "assets/part2/card_058.jpeg",
+   "front": "assets/part2/front/front_058.jpg"
+  },
+  {
+   "gid": 223,
+   "part": 2,
+   "lid": 59,
+   "section": "Inequalities & Absolute Values",
+   "title": "The Compound Inequality",
+   "full": "assets/part2/card_059.jpeg",
+   "front": "assets/part2/front/front_059.jpg"
+  },
+  {
+   "gid": 224,
+   "part": 2,
+   "lid": 60,
+   "section": "Inequalities & Absolute Values",
+   "title": "Working with Inequalities and Equations",
+   "full": "assets/part2/card_060.jpeg",
+   "front": "assets/part2/front/front_060.jpg"
+  },
+  {
+   "gid": 225,
+   "part": 2,
+   "lid": 61,
+   "section": "Inequalities & Absolute Values",
+   "title": "Substituting from an Equation into a Compound Inequality",
+   "full": "assets/part2/card_061.jpeg",
+   "front": "assets/part2/front/front_061.jpg"
+  },
+  {
+   "gid": 226,
+   "part": 2,
+   "lid": 62,
+   "section": "Inequalities & Absolute Values",
+   "title": "Multiplying/Dividing Compound Inequalities by a Positive Number",
+   "full": "assets/part2/card_062.jpeg",
+   "front": "assets/part2/front/front_062.jpg"
+  },
+  {
+   "gid": 227,
+   "part": 2,
+   "lid": 63,
+   "section": "Inequalities & Absolute Values",
+   "title": "The Basics of Inequalities (\u2265 and \u2264)",
+   "full": "assets/part2/card_063.jpeg",
+   "front": "assets/part2/front/front_063.jpg"
+  },
+  {
+   "gid": 228,
+   "part": 2,
+   "lid": 64,
+   "section": "Inequalities & Absolute Values",
+   "title": "Adding and Subtracting with Compound Inequalities",
+   "full": "assets/part2/card_064.jpeg",
+   "front": "assets/part2/front/front_064.jpg"
+  },
+  {
+   "gid": 229,
+   "part": 2,
+   "lid": 65,
+   "section": "Inequalities & Absolute Values",
+   "title": "Adding and Subtracting Compound Inequalities",
+   "full": "assets/part2/card_065.jpeg",
+   "front": "assets/part2/front/front_065.jpg"
+  },
+  {
+   "gid": 230,
+   "part": 2,
+   "lid": 66,
+   "section": "Inequalities & Absolute Values",
+   "title": "Multiplying/Dividing Compound Inequalities by a Negative Number",
+   "full": "assets/part2/card_066.jpeg",
+   "front": "assets/part2/front/front_066.jpg"
+  },
+  {
+   "gid": 231,
+   "part": 2,
+   "lid": 67,
+   "section": "Inequalities & Absolute Values",
+   "title": "Graphing > and \u2265 Inequalities on the Number Line",
+   "full": "assets/part2/card_067.jpeg",
+   "front": "assets/part2/front/front_067.jpg"
+  },
+  {
+   "gid": 232,
+   "part": 2,
+   "lid": 68,
+   "section": "Inequalities & Absolute Values",
+   "title": "Graphing < and \u2264 Inequalities on the Number Line",
+   "full": "assets/part2/card_068.jpeg",
+   "front": "assets/part2/front/front_068.jpg"
+  },
+  {
+   "gid": 233,
+   "part": 2,
+   "lid": 69,
+   "section": "General Word Problems",
+   "title": "Age Problems",
+   "full": "assets/part2/card_069.jpeg",
+   "front": "assets/part2/front/front_069.jpg"
+  },
+  {
+   "gid": 234,
+   "part": 2,
+   "lid": 70,
+   "section": "General Word Problems",
+   "title": "Length Problems",
+   "full": "assets/part2/card_070.jpeg",
+   "front": "assets/part2/front/front_070.jpg"
+  },
+  {
+   "gid": 235,
+   "part": 2,
+   "lid": 71,
+   "section": "General Word Problems",
+   "title": "Weight Problems",
+   "full": "assets/part2/card_071.jpeg",
+   "front": "assets/part2/front/front_071.jpg"
+  },
+  {
+   "gid": 236,
+   "part": 2,
+   "lid": 72,
+   "section": "General Word Problems",
+   "title": "Money Problems",
+   "full": "assets/part2/card_072.jpeg",
+   "front": "assets/part2/front/front_072.jpg"
+  },
+  {
+   "gid": 237,
+   "part": 2,
+   "lid": 73,
+   "section": "General Word Problems",
+   "title": "Coin Problems",
+   "full": "assets/part2/card_073.jpeg",
+   "front": "assets/part2/front/front_073.jpg"
+  },
+  {
+   "gid": 238,
+   "part": 2,
+   "lid": 74,
+   "section": "General Word Problems",
+   "title": "Word Problems with Variables in the Answer Choices \u2013 Part 1",
+   "full": "assets/part2/card_074.jpeg",
+   "front": "assets/part2/front/front_074.jpg"
+  },
+  {
+   "gid": 239,
+   "part": 2,
+   "lid": 75,
+   "section": "General Word Problems",
+   "title": "Moving From Words to Equations",
+   "full": "assets/part2/card_075.jpeg",
+   "front": "assets/part2/front/front_075.jpg"
+  },
+  {
+   "gid": 240,
+   "part": 2,
+   "lid": 76,
+   "section": "General Word Problems",
+   "title": "Price Per Item",
+   "full": "assets/part2/card_076.jpeg",
+   "front": "assets/part2/front/front_076.jpg"
+  },
+  {
+   "gid": 241,
+   "part": 2,
+   "lid": 77,
+   "section": "General Word Problems",
+   "title": "Word Problems with Differing Unit Prices and Quantities",
+   "full": "assets/part2/card_077.jpeg",
+   "front": "assets/part2/front/front_077.jpg"
+  },
+  {
+   "gid": 242,
+   "part": 2,
+   "lid": 78,
+   "section": "General Word Problems",
+   "title": "Profit and Loss Problems",
+   "full": "assets/part2/card_078.jpeg",
+   "front": "assets/part2/front/front_078.jpg"
+  },
+  {
+   "gid": 243,
+   "part": 2,
+   "lid": 79,
+   "section": "General Word Problems",
+   "title": "Splitting the Cost",
+   "full": "assets/part2/card_079.jpeg",
+   "front": "assets/part2/front/front_079.jpg"
+  },
+  {
+   "gid": 244,
+   "part": 2,
+   "lid": 80,
+   "section": "General Word Problems",
+   "title": "Which Salary Should I Choose? How Much Will I Make?",
+   "full": "assets/part2/card_080.jpeg",
+   "front": "assets/part2/front/front_080.jpg"
+  },
+  {
+   "gid": 245,
+   "part": 2,
+   "lid": 81,
+   "section": "General Word Problems",
+   "title": "Which Price Structure Makes the Most Sense?",
+   "full": "assets/part2/card_081.jpeg",
+   "front": "assets/part2/front/front_081.jpg"
+  },
+  {
+   "gid": 246,
+   "part": 2,
+   "lid": 82,
+   "section": "General Word Problems",
+   "title": "The Equalization of Rates",
+   "full": "assets/part2/card_082.jpeg",
+   "front": "assets/part2/front/front_082.jpg"
+  },
+  {
+   "gid": 247,
+   "part": 2,
+   "lid": 83,
+   "section": "General Word Problems",
+   "title": "Fraction Word Problems",
+   "full": "assets/part2/card_083.jpeg",
+   "front": "assets/part2/front/front_083.jpg"
+  },
+  {
+   "gid": 248,
+   "part": 2,
+   "lid": 84,
+   "section": "General Word Problems",
+   "title": "The Fractional Parts of a Whole Must Sum to the Whole",
+   "full": "assets/part2/card_084.jpeg",
+   "front": "assets/part2/front/front_084.jpg"
+  },
+  {
+   "gid": 249,
+   "part": 2,
+   "lid": 85,
+   "section": "General Word Problems",
+   "title": "Simple Interest Problems",
+   "full": "assets/part2/card_085.jpeg",
+   "front": "assets/part2/front/front_085.jpg"
+  },
+  {
+   "gid": 250,
+   "part": 2,
+   "lid": 86,
+   "section": "General Word Problems",
+   "title": "Compound Interest Problems",
+   "full": "assets/part2/card_086.jpeg",
+   "front": "assets/part2/front/front_086.jpg"
+  },
+  {
+   "gid": 251,
+   "part": 2,
+   "lid": 87,
+   "section": "General Word Problems",
+   "title": "The Linear Growth Formula",
+   "full": "assets/part2/card_087.jpeg",
+   "front": "assets/part2/front/front_087.jpg"
+  },
+  {
+   "gid": 252,
+   "part": 2,
+   "lid": 88,
+   "section": "General Word Problems",
+   "title": "Making a Growth Table to Solve Linear Growth Problems",
+   "full": "assets/part2/card_088.jpeg",
+   "front": "assets/part2/front/front_088.jpg"
+  },
+  {
+   "gid": 253,
+   "part": 2,
+   "lid": 89,
+   "section": "General Word Problems",
+   "title": "Exponential Growth Problems",
+   "full": "assets/part2/card_089.jpeg",
+   "front": "assets/part2/front/front_089.jpg"
+  },
+  {
+   "gid": 254,
+   "part": 2,
+   "lid": 90,
+   "section": "General Word Problems",
+   "title": "Exponential Decay Problems",
+   "full": "assets/part2/card_090.jpeg",
+   "front": "assets/part2/front/front_090.jpg"
+  },
+  {
+   "gid": 255,
+   "part": 2,
+   "lid": 91,
+   "section": "General Word Problems",
+   "title": "Digit Problems",
+   "full": "assets/part2/card_091.jpeg",
+   "front": "assets/part2/front/front_091.jpg"
+  },
+  {
+   "gid": 256,
+   "part": 2,
+   "lid": 92,
+   "section": "General Word Problems",
+   "title": "Consecutive Integer Word Problems",
+   "full": "assets/part2/card_092.jpeg",
+   "front": "assets/part2/front/front_092.jpg"
+  },
+  {
+   "gid": 257,
+   "part": 2,
+   "lid": 93,
+   "section": "General Word Problems",
+   "title": "Consecutive Even or Odd Integers",
+   "full": "assets/part2/card_093.jpeg",
+   "front": "assets/part2/front/front_093.jpg"
+  },
+  {
+   "gid": 258,
+   "part": 2,
+   "lid": 94,
+   "section": "General Word Problems",
+   "title": "Consecutive Multiples of Integers",
+   "full": "assets/part2/card_094.jpeg",
+   "front": "assets/part2/front/front_094.jpg"
+  },
+  {
+   "gid": 259,
+   "part": 2,
+   "lid": 95,
+   "section": "General Word Problems",
+   "title": "Dry Mixtures",
+   "full": "assets/part2/card_095.jpeg",
+   "front": "assets/part2/front/front_095.jpg"
+  },
+  {
+   "gid": 260,
+   "part": 2,
+   "lid": 96,
+   "section": "General Word Problems",
+   "title": "Wet Mixtures",
+   "full": "assets/part2/card_096.jpeg",
+   "front": "assets/part2/front/front_096.jpg"
+  },
+  {
+   "gid": 261,
+   "part": 2,
+   "lid": 97,
+   "section": "General Word Problems",
+   "title": "Mixtures with Replacement",
+   "full": "assets/part2/card_097.jpeg",
+   "front": "assets/part2/front/front_097.jpg"
+  },
+  {
+   "gid": 262,
+   "part": 2,
+   "lid": 98,
+   "section": "General Word Problems",
+   "title": "Word Problems with Inequalities",
+   "full": "assets/part2/card_098.jpeg",
+   "front": "assets/part2/front/front_098.jpg"
+  },
+  {
+   "gid": 263,
+   "part": 2,
+   "lid": 99,
+   "section": "General Word Problems",
+   "title": "Objects in a Line \u2013 One Named Object",
+   "full": "assets/part2/card_099.jpeg",
+   "front": "assets/part2/front/front_099.jpg"
+  },
+  {
+   "gid": 264,
+   "part": 2,
+   "lid": 100,
+   "section": "General Word Problems",
+   "title": "Word Problems with Variables in the Answer Choices \u2013 Part 2",
+   "full": "assets/part2/card_100.jpeg",
+   "front": "assets/part2/front/front_100.jpg"
+  },
+  {
+   "gid": 265,
+   "part": 2,
+   "lid": 101,
+   "section": "Unit Conversions",
+   "title": "The Unit Conversion Process",
+   "full": "assets/part2/card_101.jpeg",
+   "front": "assets/part2/front/front_101.jpg"
+  },
+  {
+   "gid": 266,
+   "part": 2,
+   "lid": 102,
+   "section": "Unit Conversions",
+   "title": "Conversions Involving Two Sets of Units",
+   "full": "assets/part2/card_102.jpeg",
+   "front": "assets/part2/front/front_102.jpg"
+  },
+  {
+   "gid": 267,
+   "part": 2,
+   "lid": 103,
+   "section": "Unit Conversions",
+   "title": "Using Two Steps to Convert One Measurement",
+   "full": "assets/part2/card_103.jpeg",
+   "front": "assets/part2/front/front_103.jpg"
+  },
+  {
+   "gid": 268,
+   "part": 2,
+   "lid": 104,
+   "section": "Unit Conversions",
+   "title": "Unit Conversions Involving Variables",
+   "full": "assets/part2/card_104.jpeg",
+   "front": "assets/part2/front/front_104.jpg"
+  },
+  {
+   "gid": 269,
+   "part": 2,
+   "lid": 105,
+   "section": "Unit Conversions",
+   "title": "Unit Conversions Involving Squared and Cubed Units",
+   "full": "assets/part2/card_105.jpeg",
+   "front": "assets/part2/front/front_105.jpg"
+  },
+  {
+   "gid": 270,
+   "part": 2,
+   "lid": 106,
+   "section": "Rate Problems",
+   "title": "When a Given Measurement is an Inequality",
+   "full": "assets/part2/card_106.jpeg",
+   "front": "assets/part2/front/front_106.jpg"
+  },
+  {
+   "gid": 271,
+   "part": 2,
+   "lid": 107,
+   "section": "Rate Problems",
+   "title": "The Matrix Approach to Rate-Time-Distance Problems",
+   "full": "assets/part2/card_107.jpeg",
+   "front": "assets/part2/front/front_107.jpg"
+  },
+  {
+   "gid": 272,
+   "part": 2,
+   "lid": 108,
+   "section": "Rate Problems",
+   "title": "Variation 2: Two Objects Leave at Different Times",
+   "full": "assets/part2/card_108.jpeg",
+   "front": "assets/part2/front/front_108.jpg"
+  },
+  {
+   "gid": 273,
+   "part": 2,
+   "lid": 109,
+   "section": "Rate Problems",
+   "title": "Variation 3: One Object Faster than Another",
+   "full": "assets/part2/card_109.jpeg",
+   "front": "assets/part2/front/front_109.jpg"
+  },
+  {
+   "gid": 274,
+   "part": 2,
+   "lid": 110,
+   "section": "Rate Problems",
+   "title": "Variation 4: One Object Relatively Faster than Another",
+   "full": "assets/part2/card_110.jpeg",
+   "front": "assets/part2/front/front_110.jpg"
+  },
+  {
+   "gid": 275,
+   "part": 2,
+   "lid": 111,
+   "section": "Rate Problems",
+   "title": "The Rate-Time-Distance Formula",
+   "full": "assets/part2/card_111.jpeg",
+   "front": "assets/part2/front/front_111.jpg"
+  },
+  {
+   "gid": 276,
+   "part": 2,
+   "lid": 112,
+   "section": "Rate Problems",
+   "title": "Average Rate Questions",
+   "full": "assets/part2/card_112.jpeg",
+   "front": "assets/part2/front/front_112.jpg"
+  },
+  {
+   "gid": 277,
+   "part": 2,
+   "lid": 113,
+   "section": "Rate Problems",
+   "title": "Finding the Average Rate When Distances Are Unknown \u2013 Variable Method",
+   "full": "assets/part2/card_113.jpeg",
+   "front": "assets/part2/front/front_113.jpg"
+  },
+  {
+   "gid": 278,
+   "part": 2,
+   "lid": 114,
+   "section": "Rate Problems",
+   "title": "Converging Rate Questions",
+   "full": "assets/part2/card_114.jpeg",
+   "front": "assets/part2/front/front_114.jpg"
+  },
+  {
+   "gid": 279,
+   "part": 2,
+   "lid": 115,
+   "section": "Rate Problems",
+   "title": "Diverging Rate Questions",
+   "full": "assets/part2/card_115.jpeg",
+   "front": "assets/part2/front/front_115.jpg"
+  },
+  {
+   "gid": 280,
+   "part": 2,
+   "lid": 116,
+   "section": "Rate Problems",
+   "title": "Round-Trip Rate Questions",
+   "full": "assets/part2/card_116.jpeg",
+   "front": "assets/part2/front/front_116.jpg"
+  },
+  {
+   "gid": 281,
+   "part": 2,
+   "lid": 117,
+   "section": "Rate Problems",
+   "title": "Catch-Up Rate Questions",
+   "full": "assets/part2/card_117.jpeg",
+   "front": "assets/part2/front/front_117.jpg"
+  },
+  {
+   "gid": 282,
+   "part": 2,
+   "lid": 118,
+   "section": "Rate Problems",
+   "title": "Catch-Up and Pass Rate Questions \u2013 Part 1",
+   "full": "assets/part2/card_118.jpeg",
+   "front": "assets/part2/front/front_118.jpg"
+  },
+  {
+   "gid": 283,
+   "part": 2,
+   "lid": 119,
+   "section": "Rate Problems",
+   "title": "Catch-Up and Wait Rate Questions",
+   "full": "assets/part2/card_119.jpeg",
+   "front": "assets/part2/front/front_119.jpg"
+  },
+  {
+   "gid": 284,
+   "part": 2,
+   "lid": 120,
+   "section": "Rate Problems",
+   "title": "Relative Motion Rate Questions",
+   "full": "assets/part2/card_120.jpeg",
+   "front": "assets/part2/front/front_120.jpg"
+  },
+  {
+   "gid": 285,
+   "part": 2,
+   "lid": 121,
+   "section": "Rate Problems",
+   "title": "If/Then Rate Questions",
+   "full": "assets/part2/card_121.jpeg",
+   "front": "assets/part2/front/front_121.jpg"
+  },
+  {
+   "gid": 286,
+   "part": 2,
+   "lid": 122,
+   "section": "Rate Problems",
+   "title": "Beware Time-Zone Changes in Rate-Time-Distance Problems",
+   "full": "assets/part2/card_122.jpeg",
+   "front": "assets/part2/front/front_122.jpg"
+  },
+  {
+   "gid": 287,
+   "part": 2,
+   "lid": 123,
+   "section": "Rate Problems",
+   "title": "Fuel Efficiency \u2013 Another Rate",
+   "full": "assets/part2/card_123.jpeg",
+   "front": "assets/part2/front/front_123.jpg"
+  },
+  {
+   "gid": 288,
+   "part": 2,
+   "lid": 124,
+   "section": "Rate Problems",
+   "title": "DS Rate Questions with Inequalities: 9-Step Strategy \u2013 Part 1",
+   "full": "assets/part2/card_124.jpeg",
+   "front": "assets/part2/front/front_124.jpg"
+  },
+  {
+   "gid": 289,
+   "part": 2,
+   "lid": 125,
+   "section": "Rate Problems",
+   "title": "Elementary Rate Questions with Variables in the Answer Choices",
+   "full": "assets/part2/card_125.jpeg",
+   "front": "assets/part2/front/front_125.jpg"
+  },
+  {
+   "gid": 290,
+   "part": 2,
+   "lid": 126,
+   "section": "Rate Problems",
+   "title": "Solving Average Rate Problems When the Average Rate is Known",
+   "full": "assets/part2/card_126.jpeg",
+   "front": "assets/part2/front/front_126.jpg"
+  },
+  {
+   "gid": 291,
+   "part": 2,
+   "lid": 127,
+   "section": "Rate Problems",
+   "title": "Matrix Approach to Rate-Time-Distance: Make Sure Units Are Compatible",
+   "full": "assets/part2/card_127.jpeg",
+   "front": "assets/part2/front/front_127.jpg"
+  },
+  {
+   "gid": 292,
+   "part": 2,
+   "lid": 128,
+   "section": "Rate Problems",
+   "title": "DS Rate Questions with Inequalities: 9-Step Strategy \u2013 Part 2",
+   "full": "assets/part2/card_128.jpeg",
+   "front": "assets/part2/front/front_128.jpg"
+  },
+  {
+   "gid": 293,
+   "part": 2,
+   "lid": 129,
+   "section": "Rate Problems",
+   "title": "Catch-Up and Pass Rate Questions \u2013 Part 2",
+   "full": "assets/part2/card_129.jpeg",
+   "front": "assets/part2/front/front_129.jpg"
+  },
+  {
+   "gid": 294,
+   "part": 2,
+   "lid": 130,
+   "section": "Rate Problems",
+   "title": "Finding the Average Rate When Distances Are Unknown \u2013 Numerical Method",
+   "full": "assets/part2/card_130.jpeg",
+   "front": "assets/part2/front/front_130.jpg"
+  },
+  {
+   "gid": 295,
+   "part": 2,
+   "lid": 131,
+   "section": "Work Problems",
+   "title": "The Rate-Time-Work Formula",
+   "full": "assets/part2/card_131.jpeg",
+   "front": "assets/part2/front/front_131.jpg"
+  },
+  {
+   "gid": 296,
+   "part": 2,
+   "lid": 132,
+   "section": "Work Problems",
+   "title": "Determining an Object\u2019s Work Rate",
+   "full": "assets/part2/card_132.jpeg",
+   "front": "assets/part2/front/front_132.jpg"
+  },
+  {
+   "gid": 297,
+   "part": 2,
+   "lid": 133,
+   "section": "Work Problems",
+   "title": "The Matrix Approach to Solving Work Problems",
+   "full": "assets/part2/card_133.jpeg",
+   "front": "assets/part2/front/front_133.jpg"
+  },
+  {
+   "gid": 298,
+   "part": 2,
+   "lid": 134,
+   "section": "Work Problems",
+   "title": "Single Worker Problems",
+   "full": "assets/part2/card_134.jpeg",
+   "front": "assets/part2/front/front_134.jpg"
+  },
+  {
+   "gid": 299,
+   "part": 2,
+   "lid": 135,
+   "section": "Work Problems",
+   "title": "Single Worker Problems with Variables in the Answer Choices",
+   "full": "assets/part2/card_135.jpeg",
+   "front": "assets/part2/front/front_135.jpg"
+  },
+  {
+   "gid": 300,
+   "part": 2,
+   "lid": 136,
+   "section": "Work Problems",
+   "title": "Combined Worker Problems",
+   "full": "assets/part2/card_136.jpeg",
+   "front": "assets/part2/front/front_136.jpg"
+  },
+  {
+   "gid": 301,
+   "part": 2,
+   "lid": 137,
+   "section": "Work Problems",
+   "title": "Two Objects Work Together For the Same Amount of Time",
+   "full": "assets/part2/card_137.jpeg",
+   "front": "assets/part2/front/front_137.jpg"
+  },
+  {
+   "gid": 302,
+   "part": 2,
+   "lid": 138,
+   "section": "Work Problems",
+   "title": "Two Objects Begin Together, but One Stops Before Completion",
+   "full": "assets/part2/card_138.jpeg",
+   "front": "assets/part2/front/front_138.jpg"
+  },
+  {
+   "gid": 303,
+   "part": 2,
+   "lid": 139,
+   "section": "Work Problems",
+   "title": "Two Objects Work Together, But One Has an Unknown Time",
+   "full": "assets/part2/card_139.jpeg",
+   "front": "assets/part2/front/front_139.jpg"
+  },
+  {
+   "gid": 304,
+   "part": 2,
+   "lid": 140,
+   "section": "Work Problems",
+   "title": "Percent of a Job Done and Fraction of a Job Done",
+   "full": "assets/part2/card_140.jpeg",
+   "front": "assets/part2/front/front_140.jpg"
+  },
+  {
+   "gid": 305,
+   "part": 2,
+   "lid": 141,
+   "section": "Work Problems",
+   "title": "Combining Rates",
+   "full": "assets/part2/card_141.jpeg",
+   "front": "assets/part2/front/front_141.jpg"
+  },
+  {
+   "gid": 306,
+   "part": 2,
+   "lid": 142,
+   "section": "Work Problems",
+   "title": "Determining a Combined Rate From Three or More Combined Rates",
+   "full": "assets/part2/card_142.jpeg",
+   "front": "assets/part2/front/front_142.jpg"
+  },
+  {
+   "gid": 307,
+   "part": 2,
+   "lid": 143,
+   "section": "Work Problems",
+   "title": "Opposing Worker Problems",
+   "full": "assets/part2/card_143.jpeg",
+   "front": "assets/part2/front/front_143.jpg"
+  },
+  {
+   "gid": 308,
+   "part": 2,
+   "lid": 144,
+   "section": "Work Problems",
+   "title": "Matrix Approach to Work Problems (Continued)",
+   "full": "assets/part2/card_144.jpeg",
+   "front": "assets/part2/front/front_144.jpg"
+  },
+  {
+   "gid": 309,
+   "part": 2,
+   "lid": 145,
+   "section": "Work Problems",
+   "title": "One Worker Faster/Slower by a Percent or Fraction \u2013 Part 1",
+   "full": "assets/part2/card_145.jpeg",
+   "front": "assets/part2/front/front_145.jpg"
+  },
+  {
+   "gid": 310,
+   "part": 2,
+   "lid": 146,
+   "section": "Work Problems",
+   "title": "One Worker Faster/Slower by a Percent or Fraction \u2013 Part 2",
+   "full": "assets/part2/card_146.jpeg",
+   "front": "assets/part2/front/front_146.jpg"
+  },
+  {
+   "gid": 311,
+   "part": 2,
+   "lid": 147,
+   "section": "Work Problems",
+   "title": "Fractional Workers Problems",
+   "full": "assets/part2/card_147.jpeg",
+   "front": "assets/part2/front/front_147.jpg"
+  },
+  {
+   "gid": 312,
+   "part": 2,
+   "lid": 148,
+   "section": "Ratios",
+   "title": "More Complicated Inverse Variation",
+   "full": "assets/part2/card_148.jpeg",
+   "front": "assets/part2/front/front_148.jpg"
+  },
+  {
+   "gid": 313,
+   "part": 2,
+   "lid": 149,
+   "section": "Ratios",
+   "title": "The Information that All Ratios Express",
+   "full": "assets/part2/card_149.jpeg",
+   "front": "assets/part2/front/front_149.jpg"
+  },
+  {
+   "gid": 314,
+   "part": 2,
+   "lid": 150,
+   "section": "Ratios",
+   "title": "A Ratio Alone Does Not Provide Actual Quantities",
+   "full": "assets/part2/card_150.jpeg",
+   "front": "assets/part2/front/front_150.jpg"
+  },
+  {
+   "gid": 315,
+   "part": 2,
+   "lid": 151,
+   "section": "Ratios",
+   "title": "The Ratio Multiplier",
+   "full": "assets/part2/card_151.jpeg",
+   "front": "assets/part2/front/front_151.jpg"
+  },
+  {
+   "gid": 316,
+   "part": 2,
+   "lid": 152,
+   "section": "Ratios",
+   "title": "Determining the Ratio Multiplier",
+   "full": "assets/part2/card_152.jpeg",
+   "front": "assets/part2/front/front_152.jpg"
+  },
+  {
+   "gid": 317,
+   "part": 2,
+   "lid": 153,
+   "section": "Ratios",
+   "title": "Understanding What Constitutes a Useful Ratio",
+   "full": "assets/part2/card_153.jpeg",
+   "front": "assets/part2/front/front_153.jpg"
+  },
+  {
+   "gid": 318,
+   "part": 2,
+   "lid": 154,
+   "section": "Ratios",
+   "title": "Using Like Variables in Ratios",
+   "full": "assets/part2/card_154.jpeg",
+   "front": "assets/part2/front/front_154.jpg"
+  },
+  {
+   "gid": 319,
+   "part": 2,
+   "lid": 155,
+   "section": "Ratios",
+   "title": "The Multipart Ratio and the Least Common Multiple (LCM)",
+   "full": "assets/part2/card_155.jpeg",
+   "front": "assets/part2/front/front_155.jpg"
+  },
+  {
+   "gid": 320,
+   "part": 2,
+   "lid": 156,
+   "section": "Ratios",
+   "title": "Adjusting Ratios with Multiplication and Division",
+   "full": "assets/part2/card_156.jpeg",
+   "front": "assets/part2/front/front_156.jpg"
+  },
+  {
+   "gid": 321,
+   "part": 2,
+   "lid": 157,
+   "section": "Ratios",
+   "title": "Proportions",
+   "full": "assets/part2/card_157.jpeg",
+   "front": "assets/part2/front/front_157.jpg"
+  },
+  {
+   "gid": 322,
+   "part": 2,
+   "lid": 158,
+   "section": "Ratios",
+   "title": "Direct Variation",
+   "full": "assets/part2/card_158.jpeg",
+   "front": "assets/part2/front/front_158.jpg"
+  },
+  {
+   "gid": 323,
+   "part": 2,
+   "lid": 159,
+   "section": "Ratios",
+   "title": "Inverse Variation",
+   "full": "assets/part2/card_159.jpeg",
+   "front": "assets/part2/front/front_159.jpg"
+  },
+  {
+   "gid": 324,
+   "part": 2,
+   "lid": 160,
+   "section": "Ratios",
+   "title": "Combined Variation",
+   "full": "assets/part2/card_160.jpeg",
+   "front": "assets/part2/front/front_160.jpg"
+  },
+  {
+   "gid": 325,
+   "part": 2,
+   "lid": 161,
+   "section": "Ratios",
+   "title": "Ratios Can Be Written in Three Common Equivalent Forms",
+   "full": "assets/part2/card_161.jpeg",
+   "front": "assets/part2/front/front_161.jpg"
+  },
+  {
+   "gid": 326,
+   "part": 2,
+   "lid": 162,
+   "section": "Ratios",
+   "title": "Adding/Subtracting to Achieve a Desired Ratio",
+   "full": "assets/part2/card_162.jpeg",
+   "front": "assets/part2/front/front_162.jpg"
+  },
+  {
+   "gid": 327,
+   "part": 2,
+   "lid": 163,
+   "section": "Ratios",
+   "title": "More Complicated Direct Variation",
+   "full": "assets/part2/card_163.jpeg",
+   "front": "assets/part2/front/front_163.jpg"
+  },
+  {
+   "gid": 328,
+   "part": 2,
+   "lid": 164,
+   "section": "Ratios",
+   "title": "Joint Variation",
+   "full": "assets/part2/card_164.jpeg",
+   "front": "assets/part2/front/front_164.jpg"
+  },
+  {
+   "gid": 329,
+   "part": 3,
+   "lid": 1,
+   "section": "Percent Word Problems",
+   "title": "Percent Profit",
+   "full": "assets/part3/card_001.jpeg",
+   "front": "assets/part3/front/front_001.jpg"
+  },
+  {
+   "gid": 330,
+   "part": 3,
+   "lid": 2,
+   "section": "Percent Word Problems",
+   "title": "\u201cPercent of\u201d Problems",
+   "full": "assets/part3/card_002.jpeg",
+   "front": "assets/part3/front/front_002.jpg"
+  },
+  {
+   "gid": 331,
+   "part": 3,
+   "lid": 3,
+   "section": "Percent Word Problems",
+   "title": "\u201cWhat Percent\u201d Problems",
+   "full": "assets/part3/card_003.jpeg",
+   "front": "assets/part3/front/front_003.jpg"
+  },
+  {
+   "gid": 332,
+   "part": 3,
+   "lid": 4,
+   "section": "Percent Word Problems",
+   "title": "\u201cPercent Less Than\u201d Problems",
+   "full": "assets/part3/card_004.jpeg",
+   "front": "assets/part3/front/front_004.jpg"
+  },
+  {
+   "gid": 333,
+   "part": 3,
+   "lid": 5,
+   "section": "Percent Word Problems",
+   "title": "\u201cPercent Greater Than\u201d Problems",
+   "full": "assets/part3/card_005.jpeg",
+   "front": "assets/part3/front/front_005.jpg"
+  },
+  {
+   "gid": 334,
+   "part": 3,
+   "lid": 6,
+   "section": "Percent Word Problems",
+   "title": "Increasing or Decreasing a Value by a Variable Percent",
+   "full": "assets/part3/card_006.jpeg",
+   "front": "assets/part3/front/front_006.jpg"
+  },
+  {
+   "gid": 335,
+   "part": 3,
+   "lid": 7,
+   "section": "Percent Word Problems",
+   "title": "Sales Tax Problems",
+   "full": "assets/part3/card_007.jpeg",
+   "front": "assets/part3/front/front_007.jpg"
+  },
+  {
+   "gid": 336,
+   "part": 3,
+   "lid": 8,
+   "section": "Percent Word Problems",
+   "title": "Successive Percent Changes",
+   "full": "assets/part3/card_008.jpeg",
+   "front": "assets/part3/front/front_008.jpg"
+  },
+  {
+   "gid": 337,
+   "part": 3,
+   "lid": 9,
+   "section": "Percent Word Problems",
+   "title": "\u201cPercent Change\u201d Problems",
+   "full": "assets/part3/card_009.jpeg",
+   "front": "assets/part3/front/front_009.jpg"
+  },
+  {
+   "gid": 338,
+   "part": 3,
+   "lid": 10,
+   "section": "Percent Word Problems",
+   "title": "Imbalances in Percent Changes \u2013 Part 1",
+   "full": "assets/part3/card_010.jpeg",
+   "front": "assets/part3/front/front_010.jpg"
+  },
+  {
+   "gid": 339,
+   "part": 3,
+   "lid": 11,
+   "section": "Percent Word Problems",
+   "title": "Using a Variable or Picking 100",
+   "full": "assets/part3/card_011.jpeg",
+   "front": "assets/part3/front/front_011.jpg"
+  },
+  {
+   "gid": 340,
+   "part": 3,
+   "lid": 12,
+   "section": "Percent Word Problems",
+   "title": "Imbalances in Percent Changes \u2013 Part 2",
+   "full": "assets/part3/card_012.jpeg",
+   "front": "assets/part3/front/front_012.jpg"
+  },
+  {
+   "gid": 341,
+   "part": 3,
+   "lid": 13,
+   "section": "Overlapping Sets",
+   "title": "Converting Data for a Set-Matrix Approach",
+   "full": "assets/part3/card_013.jpeg",
+   "front": "assets/part3/front/front_013.jpg"
+  },
+  {
+   "gid": 342,
+   "part": 3,
+   "lid": 14,
+   "section": "Overlapping Sets",
+   "title": "The Blueprint of the Set-Matrix \u2013 Part 1",
+   "full": "assets/part3/card_014.jpeg",
+   "front": "assets/part3/front/front_014.jpg"
+  },
+  {
+   "gid": 343,
+   "part": 3,
+   "lid": 15,
+   "section": "Overlapping Sets",
+   "title": "Three Overlapping Sets",
+   "full": "assets/part3/card_015.jpeg",
+   "front": "assets/part3/front/front_015.jpg"
+  },
+  {
+   "gid": 344,
+   "part": 3,
+   "lid": 16,
+   "section": "Overlapping Sets",
+   "title": "Percents in Overlapping Sets Problems",
+   "full": "assets/part3/card_016.jpeg",
+   "front": "assets/part3/front/front_016.jpg"
+  },
+  {
+   "gid": 345,
+   "part": 3,
+   "lid": 17,
+   "section": "Overlapping Sets",
+   "title": "Fractions in Overlapping Sets Problems",
+   "full": "assets/part3/card_017.jpeg",
+   "front": "assets/part3/front/front_017.jpg"
+  },
+  {
+   "gid": 346,
+   "part": 3,
+   "lid": 18,
+   "section": "Overlapping Sets",
+   "title": "Integrating Algebra Into Overlapping Sets Problems",
+   "full": "assets/part3/card_018.jpeg",
+   "front": "assets/part3/front/front_018.jpg"
+  },
+  {
+   "gid": 347,
+   "part": 3,
+   "lid": 19,
+   "section": "Overlapping Sets",
+   "title": "Solving for a Combination of Cells in an Overlapping Sets Problem",
+   "full": "assets/part3/card_019.jpeg",
+   "front": "assets/part3/front/front_019.jpg"
+  },
+  {
+   "gid": 348,
+   "part": 3,
+   "lid": 20,
+   "section": "Overlapping Sets",
+   "title": "Number Of Members in Either Set",
+   "full": "assets/part3/card_020.jpeg",
+   "front": "assets/part3/front/front_020.jpg"
+  },
+  {
+   "gid": 349,
+   "part": 3,
+   "lid": 21,
+   "section": "Overlapping Sets",
+   "title": "The Blueprint of the Set-Matrix \u2013 Part 2",
+   "full": "assets/part3/card_021.jpeg",
+   "front": "assets/part3/front/front_021.jpg"
+  },
+  {
+   "gid": 350,
+   "part": 3,
+   "lid": 22,
+   "section": "Statistics",
+   "title": "Weighted Averages with Percents",
+   "full": "assets/part3/card_022.jpeg",
+   "front": "assets/part3/front/front_022.jpg"
+  },
+  {
+   "gid": 351,
+   "part": 3,
+   "lid": 23,
+   "section": "Statistics",
+   "title": "The Median of a Set With an Odd Number of Terms",
+   "full": "assets/part3/card_023.jpeg",
+   "front": "assets/part3/front/front_023.jpg"
+  },
+  {
+   "gid": 352,
+   "part": 3,
+   "lid": 24,
+   "section": "Statistics",
+   "title": "The Median of a Set With an Even Number of Terms",
+   "full": "assets/part3/card_024.jpeg",
+   "front": "assets/part3/front/front_024.jpg"
+  },
+  {
+   "gid": 353,
+   "part": 3,
+   "lid": 25,
+   "section": "Statistics",
+   "title": "Alternative Median Strategy: Sets With an Odd Number of Terms",
+   "full": "assets/part3/card_025.jpeg",
+   "front": "assets/part3/front/front_025.jpg"
+  },
+  {
+   "gid": 354,
+   "part": 3,
+   "lid": 26,
+   "section": "Statistics",
+   "title": "Adding a Number That is Equal to the Mean: Effect on Standard Deviation",
+   "full": "assets/part3/card_026.jpeg",
+   "front": "assets/part3/front/front_026.jpg"
+  },
+  {
+   "gid": 355,
+   "part": 3,
+   "lid": 27,
+   "section": "Statistics",
+   "title": "Average (Arithmetic Mean)",
+   "full": "assets/part3/card_027.jpeg",
+   "front": "assets/part3/front/front_027.jpg"
+  },
+  {
+   "gid": 356,
+   "part": 3,
+   "lid": 28,
+   "section": "Statistics",
+   "title": "When the Mean is Equal to the Median",
+   "full": "assets/part3/card_028.jpeg",
+   "front": "assets/part3/front/front_028.jpg"
+  },
+  {
+   "gid": 357,
+   "part": 3,
+   "lid": 29,
+   "section": "Statistics",
+   "title": "Mode",
+   "full": "assets/part3/card_029.jpeg",
+   "front": "assets/part3/front/front_029.jpg"
+  },
+  {
+   "gid": 358,
+   "part": 3,
+   "lid": 30,
+   "section": "Statistics",
+   "title": "Range",
+   "full": "assets/part3/card_030.jpeg",
+   "front": "assets/part3/front/front_030.jpg"
+  },
+  {
+   "gid": 359,
+   "part": 3,
+   "lid": 31,
+   "section": "Statistics",
+   "title": "The Minimum Possible Range When the Sets are Combined",
+   "full": "assets/part3/card_031.jpeg",
+   "front": "assets/part3/front/front_031.jpg"
+  },
+  {
+   "gid": 360,
+   "part": 3,
+   "lid": 32,
+   "section": "Statistics",
+   "title": "Finding an Unknown Term in a Set When the Average is Known",
+   "full": "assets/part3/card_032.jpeg",
+   "front": "assets/part3/front/front_032.jpg"
+  },
+  {
+   "gid": 361,
+   "part": 3,
+   "lid": 33,
+   "section": "Statistics",
+   "title": "Calculating Sums When We Don\u2019t Know the Individual Data Points",
+   "full": "assets/part3/card_033.jpeg",
+   "front": "assets/part3/front/front_033.jpg"
+  },
+  {
+   "gid": 362,
+   "part": 3,
+   "lid": 34,
+   "section": "Statistics",
+   "title": "How the Weightings Affect the Weighted Average",
+   "full": "assets/part3/card_034.jpeg",
+   "front": "assets/part3/front/front_034.jpg"
+  },
+  {
+   "gid": 363,
+   "part": 3,
+   "lid": 35,
+   "section": "Statistics",
+   "title": "Units of Standard Deviation",
+   "full": "assets/part3/card_035.jpeg",
+   "front": "assets/part3/front/front_035.jpg"
+  },
+  {
+   "gid": 364,
+   "part": 3,
+   "lid": 36,
+   "section": "Statistics",
+   "title": "Adding or Subtracting the Same Value to/from All Terms: Effect on Standard Deviation",
+   "full": "assets/part3/card_036.jpeg",
+   "front": "assets/part3/front/front_036.jpg"
+  },
+  {
+   "gid": 365,
+   "part": 3,
+   "lid": 37,
+   "section": "Statistics",
+   "title": "Multiplying or Dividing a Data Set by the Same Factor: Effect on Standard Deviation",
+   "full": "assets/part3/card_037.jpeg",
+   "front": "assets/part3/front/front_037.jpg"
+  },
+  {
+   "gid": 366,
+   "part": 3,
+   "lid": 38,
+   "section": "Statistics",
+   "title": "Alternative Median Strategy: Sets With an Even Number of Terms",
+   "full": "assets/part3/card_038.jpeg",
+   "front": "assets/part3/front/front_038.jpg"
+  },
+  {
+   "gid": 367,
+   "part": 3,
+   "lid": 39,
+   "section": "Statistics",
+   "title": "The Maximum Possible Range When the Sets are Combined",
+   "full": "assets/part3/card_039.jpeg",
+   "front": "assets/part3/front/front_039.jpg"
+  },
+  {
+   "gid": 368,
+   "part": 3,
+   "lid": 40,
+   "section": "Statistics",
+   "title": "When the Standard Deviation of a Set is Zero",
+   "full": "assets/part3/card_040.jpeg",
+   "front": "assets/part3/front/front_040.jpg"
+  },
+  {
+   "gid": 369,
+   "part": 3,
+   "lid": 41,
+   "section": "Statistics",
+   "title": "Counting Consecutive Evens and Odds, Inclusive of the First and Last Numbers",
+   "full": "assets/part3/card_041.jpeg",
+   "front": "assets/part3/front/front_041.jpg"
+  },
+  {
+   "gid": 370,
+   "part": 3,
+   "lid": 42,
+   "section": "Statistics",
+   "title": "Counting Consecutive Multiples, Inclusive of the First and Last Numbers in a Set",
+   "full": "assets/part3/card_042.jpeg",
+   "front": "assets/part3/front/front_042.jpg"
+  },
+  {
+   "gid": 371,
+   "part": 3,
+   "lid": 43,
+   "section": "Statistics",
+   "title": "Determining the Average of an Evenly Spaced Set",
+   "full": "assets/part3/card_043.jpeg",
+   "front": "assets/part3/front/front_043.jpg"
+  },
+  {
+   "gid": 372,
+   "part": 3,
+   "lid": 44,
+   "section": "Statistics",
+   "title": "Counting the Multiples of Integer A or B in a Set of Consecutive Integers",
+   "full": "assets/part3/card_044.jpeg",
+   "front": "assets/part3/front/front_044.jpg"
+  },
+  {
+   "gid": 373,
+   "part": 3,
+   "lid": 45,
+   "section": "Statistics",
+   "title": "Counting the Multiples of Integer A or B, But Not of Both, in a Set of Consecutive Integers",
+   "full": "assets/part3/card_045.jpeg",
+   "front": "assets/part3/front/front_045.jpg"
+  },
+  {
+   "gid": 374,
+   "part": 3,
+   "lid": 46,
+   "section": "Statistics",
+   "title": "Weighted Average",
+   "full": "assets/part3/card_046.jpeg",
+   "front": "assets/part3/front/front_046.jpg"
+  },
+  {
+   "gid": 375,
+   "part": 3,
+   "lid": 47,
+   "section": "Combinations & Permutations",
+   "title": "Recognizing Combination Problems",
+   "full": "assets/part3/card_047.jpeg",
+   "front": "assets/part3/front/front_047.jpg"
+  },
+  {
+   "gid": 376,
+   "part": 3,
+   "lid": 48,
+   "section": "Combinations & Permutations",
+   "title": "Solving Combination Problems \u2013 The Combination Formula",
+   "full": "assets/part3/card_048.jpeg",
+   "front": "assets/part3/front/front_048.jpg"
+  },
+  {
+   "gid": 377,
+   "part": 3,
+   "lid": 49,
+   "section": "Combinations & Permutations",
+   "title": "Counting Triangles when in Three Available Points are Collinear",
+   "full": "assets/part3/card_049.jpeg",
+   "front": "assets/part3/front/front_049.jpg"
+  },
+  {
+   "gid": 378,
+   "part": 3,
+   "lid": 50,
+   "section": "Combinations & Permutations",
+   "title": "Counting Triangles when Three or More Available Points are Collinear",
+   "full": "assets/part3/card_050.jpeg",
+   "front": "assets/part3/front/front_050.jpg"
+  },
+  {
+   "gid": 379,
+   "part": 3,
+   "lid": 51,
+   "section": "Combinations & Permutations",
+   "title": "Handshake Questions",
+   "full": "assets/part3/card_051.jpeg",
+   "front": "assets/part3/front/front_051.jpg"
+  },
+  {
+   "gid": 380,
+   "part": 3,
+   "lid": 52,
+   "section": "Combinations & Permutations",
+   "title": "Equivalent Property of Combinations",
+   "full": "assets/part3/card_052.jpeg",
+   "front": "assets/part3/front/front_052.jpg"
+  },
+  {
+   "gid": 381,
+   "part": 3,
+   "lid": 53,
+   "section": "Combinations & Permutations",
+   "title": "The Fundamental Counting Principle",
+   "full": "assets/part3/card_053.jpeg",
+   "front": "assets/part3/front/front_053.jpg"
+  },
+  {
+   "gid": 382,
+   "part": 3,
+   "lid": 54,
+   "section": "Combinations & Permutations",
+   "title": "Choosing Multiple Items from Multiple Groups Using the Word \u201cOr\u201d",
+   "full": "assets/part3/card_054.jpeg",
+   "front": "assets/part3/front/front_054.jpg"
+  },
+  {
+   "gid": 383,
+   "part": 3,
+   "lid": 55,
+   "section": "Combinations & Permutations",
+   "title": "Choosing \u201cAt Least\u201d Some Number of Items",
+   "full": "assets/part3/card_055.jpeg",
+   "front": "assets/part3/front/front_055.jpg"
+  },
+  {
+   "gid": 384,
+   "part": 3,
+   "lid": 56,
+   "section": "Combinations & Permutations",
+   "title": "Combinations with Restrictions: Some Items Must Be Chosen",
+   "full": "assets/part3/card_056.jpeg",
+   "front": "assets/part3/front/front_056.jpg"
+  },
+  {
+   "gid": 385,
+   "part": 3,
+   "lid": 57,
+   "section": "Combinations & Permutations",
+   "title": "Combinations with Restrictions: Some Items Must Not Be Chosen",
+   "full": "assets/part3/card_057.jpeg",
+   "front": "assets/part3/front/front_057.jpg"
+  },
+  {
+   "gid": 386,
+   "part": 3,
+   "lid": 58,
+   "section": "Combinations & Permutations",
+   "title": "Some Number of Items in a Set Must Be Chosen and Another Number of Items Cannot Be Chosen",
+   "full": "assets/part3/card_058.jpeg",
+   "front": "assets/part3/front/front_058.jpg"
+  },
+  {
+   "gid": 387,
+   "part": 3,
+   "lid": 59,
+   "section": "Combinations & Permutations",
+   "title": "Collectively Exhaustive Events",
+   "full": "assets/part3/card_059.jpeg",
+   "front": "assets/part3/front/front_059.jpg"
+  },
+  {
+   "gid": 388,
+   "part": 3,
+   "lid": 60,
+   "section": "Combinations & Permutations",
+   "title": "Some Items can never be together in the same subgroup",
+   "full": "assets/part3/card_060.jpeg",
+   "front": "assets/part3/front/front_060.jpg"
+  },
+  {
+   "gid": 389,
+   "part": 3,
+   "lid": 61,
+   "section": "Combinations & Permutations",
+   "title": "The Special Case of Choosing at Least 1 Item from a Group",
+   "full": "assets/part3/card_061.jpeg",
+   "front": "assets/part3/front/front_061.jpg"
+  },
+  {
+   "gid": 390,
+   "part": 3,
+   "lid": 62,
+   "section": "Combinations & Permutations",
+   "title": "Calculating an Unknown Number of Items in a Group in a Combination",
+   "full": "assets/part3/card_062.jpeg",
+   "front": "assets/part3/front/front_062.jpg"
+  },
+  {
+   "gid": 391,
+   "part": 3,
+   "lid": 63,
+   "section": "Combinations & Permutations",
+   "title": "Permutations",
+   "full": "assets/part3/card_063.jpeg",
+   "front": "assets/part3/front/front_063.jpg"
+  },
+  {
+   "gid": 392,
+   "part": 3,
+   "lid": 64,
+   "section": "Combinations & Permutations",
+   "title": "Recognizing Permutations",
+   "full": "assets/part3/card_064.jpeg",
+   "front": "assets/part3/front/front_064.jpg"
+  },
+  {
+   "gid": 393,
+   "part": 3,
+   "lid": 65,
+   "section": "Combinations & Permutations",
+   "title": "Solving Permutation Problems \u2013 The Permutation Formula",
+   "full": "assets/part3/card_065.jpeg",
+   "front": "assets/part3/front/front_065.jpg"
+  },
+  {
+   "gid": 394,
+   "part": 3,
+   "lid": 66,
+   "section": "Combinations & Permutations",
+   "title": "The Permutation Formula for Indistinguishable Items",
+   "full": "assets/part3/card_066.jpeg",
+   "front": "assets/part3/front/front_066.jpg"
+  },
+  {
+   "gid": 395,
+   "part": 3,
+   "lid": 67,
+   "section": "Combinations & Permutations",
+   "title": "Counting 2-Dimensional Paths When There Are Checkpoints Between the Start and End Points",
+   "full": "assets/part3/card_067.jpeg",
+   "front": "assets/part3/front/front_067.jpg"
+  },
+  {
+   "gid": 396,
+   "part": 3,
+   "lid": 68,
+   "section": "Combinations & Permutations",
+   "title": "Circular Arrangements",
+   "full": "assets/part3/card_068.jpeg",
+   "front": "assets/part3/front/front_068.jpg"
+  },
+  {
+   "gid": 397,
+   "part": 3,
+   "lid": 69,
+   "section": "Combinations & Permutations",
+   "title": "Arrangements with Restrictions",
+   "full": "assets/part3/card_069.jpeg",
+   "front": "assets/part3/front/front_069.jpg"
+  },
+  {
+   "gid": 398,
+   "part": 3,
+   "lid": 70,
+   "section": "Combinations & Permutations",
+   "title": "Using the Anchor Method to Solve Arrangements with Restrictions",
+   "full": "assets/part3/card_070.jpeg",
+   "front": "assets/part3/front/front_070.jpg"
+  },
+  {
+   "gid": 399,
+   "part": 3,
+   "lid": 71,
+   "section": "Combinations & Permutations",
+   "title": "When Some Items Must be Together: Link Those Items Together",
+   "full": "assets/part3/card_071.jpeg",
+   "front": "assets/part3/front/front_071.jpg"
+  },
+  {
+   "gid": 400,
+   "part": 3,
+   "lid": 72,
+   "section": "Combinations & Permutations",
+   "title": "Some Items Can\u2019t be Next to Each Other",
+   "full": "assets/part3/card_072.jpeg",
+   "front": "assets/part3/front/front_072.jpg"
+  },
+  {
+   "gid": 401,
+   "part": 3,
+   "lid": 73,
+   "section": "Combinations & Permutations",
+   "title": "Calculating an Unknown Number of Items in a Group in a Permutation",
+   "full": "assets/part3/card_073.jpeg",
+   "front": "assets/part3/front/front_073.jpg"
+  },
+  {
+   "gid": 402,
+   "part": 3,
+   "lid": 74,
+   "section": "Combinations & Permutations",
+   "title": "Solving for Unknowns Using the Equivalent Property of Combinations",
+   "full": "assets/part3/card_074.jpeg",
+   "front": "assets/part3/front/front_074.jpg"
+  },
+  {
+   "gid": 403,
+   "part": 3,
+   "lid": 75,
+   "section": "Combinations & Permutations",
+   "title": "Multi-Digit Problems with Restrictions",
+   "full": "assets/part3/card_075.jpeg",
+   "front": "assets/part3/front/front_075.jpg"
+  },
+  {
+   "gid": 404,
+   "part": 3,
+   "lid": 76,
+   "section": "Combinations & Permutations",
+   "title": "Creating Codes",
+   "full": "assets/part3/card_076.jpeg",
+   "front": "assets/part3/front/front_076.jpg"
+  },
+  {
+   "gid": 405,
+   "part": 3,
+   "lid": 77,
+   "section": "Combinations & Permutations",
+   "title": "Starting with the Most Restrictive Choice in a Multi-Digit Problem",
+   "full": "assets/part3/card_077.jpeg",
+   "front": "assets/part3/front/front_077.jpg"
+  },
+  {
+   "gid": 406,
+   "part": 3,
+   "lid": 78,
+   "section": "Combinations & Permutations",
+   "title": "Dependent Combinations",
+   "full": "assets/part3/card_078.jpeg",
+   "front": "assets/part3/front/front_078.jpg"
+  },
+  {
+   "gid": 407,
+   "part": 3,
+   "lid": 79,
+   "section": "Combinations & Permutations",
+   "title": "Counting 3-Dimensional Paths",
+   "full": "assets/part3/card_079.jpeg",
+   "front": "assets/part3/front/front_079.jpg"
+  },
+  {
+   "gid": 408,
+   "part": 3,
+   "lid": 80,
+   "section": "Combinations & Permutations",
+   "title": "Solving Combination Problems \u2013 The Box-and-Fill Method",
+   "full": "assets/part3/card_080.jpeg",
+   "front": "assets/part3/front/front_080.jpg"
+  },
+  {
+   "gid": 409,
+   "part": 3,
+   "lid": 81,
+   "section": "Combinations & Permutations",
+   "title": "Solving Permutation Problems \u2013 The Box-and-Fill Method",
+   "full": "assets/part3/card_081.jpeg",
+   "front": "assets/part3/front/front_081.jpg"
+  },
+  {
+   "gid": 410,
+   "part": 3,
+   "lid": 82,
+   "section": "Combinations & Permutations",
+   "title": "Some Items Must Be Chosen and Another Number Cannot Be Chosen",
+   "full": "assets/part3/card_082.jpeg",
+   "front": "assets/part3/front/front_082.jpg"
+  },
+  {
+   "gid": 411,
+   "part": 3,
+   "lid": 83,
+   "section": "Probability",
+   "title": "The Probability of Creating Codes",
+   "full": "assets/part3/card_083.jpeg",
+   "front": "assets/part3/front/front_083.jpg"
+  },
+  {
+   "gid": 412,
+   "part": 3,
+   "lid": 84,
+   "section": "Probability",
+   "title": "Sample Spaces",
+   "full": "assets/part3/card_084.jpeg",
+   "front": "assets/part3/front/front_084.jpg"
+  },
+  {
+   "gid": 413,
+   "part": 3,
+   "lid": 85,
+   "section": "Probability",
+   "title": "Complementary Events",
+   "full": "assets/part3/card_085.jpeg",
+   "front": "assets/part3/front/front_085.jpg"
+  },
+  {
+   "gid": 414,
+   "part": 3,
+   "lid": 86,
+   "section": "Probability",
+   "title": "The Probability of A and B \u2013 Independent Events",
+   "full": "assets/part3/card_086.jpeg",
+   "front": "assets/part3/front/front_086.jpg"
+  },
+  {
+   "gid": 415,
+   "part": 3,
+   "lid": 87,
+   "section": "Probability",
+   "title": "The Probability of A and B \u2013 Dependent Events",
+   "full": "assets/part3/card_087.jpeg",
+   "front": "assets/part3/front/front_087.jpg"
+  },
+  {
+   "gid": 416,
+   "part": 3,
+   "lid": 88,
+   "section": "Probability",
+   "title": "The Addition Rule Concerning Mutually Exclusive Events",
+   "full": "assets/part3/card_088.jpeg",
+   "front": "assets/part3/front/front_088.jpg"
+  },
+  {
+   "gid": 417,
+   "part": 3,
+   "lid": 89,
+   "section": "Probability",
+   "title": "The Basic Probability Formula",
+   "full": "assets/part3/card_089.jpeg",
+   "front": "assets/part3/front/front_089.jpg"
+  },
+  {
+   "gid": 418,
+   "part": 3,
+   "lid": 90,
+   "section": "Probability",
+   "title": "Accounting for Multiple Outcomes",
+   "full": "assets/part3/card_090.jpeg",
+   "front": "assets/part3/front/front_090.jpg"
+  },
+  {
+   "gid": 419,
+   "part": 3,
+   "lid": 91,
+   "section": "Probability",
+   "title": "\u201cAt Least\u201d Probability Problems",
+   "full": "assets/part3/card_091.jpeg",
+   "front": "assets/part3/front/front_091.jpg"
+  },
+  {
+   "gid": 420,
+   "part": 3,
+   "lid": 92,
+   "section": "Probability",
+   "title": "The Special Case Of \u201cAt Least 1\u201d Probability Problems",
+   "full": "assets/part3/card_092.jpeg",
+   "front": "assets/part3/front/front_092.jpg"
+  },
+  {
+   "gid": 421,
+   "part": 3,
+   "lid": 93,
+   "section": "Probability",
+   "title": "Blending Combinatorics and Probability",
+   "full": "assets/part3/card_093.jpeg",
+   "front": "assets/part3/front/front_093.jpg"
+  },
+  {
+   "gid": 422,
+   "part": 3,
+   "lid": 94,
+   "section": "Probability",
+   "title": "The Probability That Some Number of Items Must Be Selected",
+   "full": "assets/part3/card_094.jpeg",
+   "front": "assets/part3/front/front_094.jpg"
+  },
+  {
+   "gid": 423,
+   "part": 3,
+   "lid": 95,
+   "section": "Probability",
+   "title": "The Probability That Some Number of Items Must Not Be Selected",
+   "full": "assets/part3/card_095.jpeg",
+   "front": "assets/part3/front/front_095.jpg"
+  },
+  {
+   "gid": 424,
+   "part": 3,
+   "lid": 96,
+   "section": "Probability",
+   "title": "The Probability That Some Number of Items Must Be Selected While Other Items Must Not Be Selected",
+   "full": "assets/part3/card_096.jpeg",
+   "front": "assets/part3/front/front_096.jpg"
+  },
+  {
+   "gid": 425,
+   "part": 3,
+   "lid": 97,
+   "section": "Probability",
+   "title": "The Probability of At Least Some Number of Events Occurring",
+   "full": "assets/part3/card_097.jpeg",
+   "front": "assets/part3/front/front_097.jpg"
+  },
+  {
+   "gid": 426,
+   "part": 3,
+   "lid": 98,
+   "section": "Probability",
+   "title": "Quadratics and Probability",
+   "full": "assets/part3/card_098.jpeg",
+   "front": "assets/part3/front/front_098.jpg"
+  },
+  {
+   "gid": 427,
+   "part": 3,
+   "lid": 99,
+   "section": "Probability",
+   "title": "Algebra and Probability",
+   "full": "assets/part3/card_099.jpeg",
+   "front": "assets/part3/front/front_099.jpg"
+  },
+  {
+   "gid": 428,
+   "part": 3,
+   "lid": 100,
+   "section": "Probability",
+   "title": "Probability with Permutations",
+   "full": "assets/part3/card_100.jpeg",
+   "front": "assets/part3/front/front_100.jpg"
+  },
+  {
+   "gid": 429,
+   "part": 3,
+   "lid": 101,
+   "section": "Probability",
+   "title": "Probability of Two Non-Mutually Exclusive Events",
+   "full": "assets/part3/card_101.jpeg",
+   "front": "assets/part3/front/front_101.jpg"
+  },
+  {
+   "gid": 430,
+   "part": 3,
+   "lid": 102,
+   "section": "Probability",
+   "title": "The Addition Rule Concerning Events That Are Not Mutually Exclusive",
+   "full": "assets/part3/card_102.jpeg",
+   "front": "assets/part3/front/front_102.jpg"
+  },
+  {
+   "gid": 431,
+   "part": 3,
+   "lid": 103,
+   "section": "Coordinate Geometry",
+   "title": "The Midpoint Formula",
+   "full": "assets/part3/card_103.jpeg",
+   "front": "assets/part3/front/front_103.jpg"
+  },
+  {
+   "gid": 432,
+   "part": 3,
+   "lid": 104,
+   "section": "Coordinate Geometry",
+   "title": "Points on the Coordinate Plane",
+   "full": "assets/part3/card_104.jpeg",
+   "front": "assets/part3/front/front_104.jpg"
+  },
+  {
+   "gid": 433,
+   "part": 3,
+   "lid": 105,
+   "section": "Coordinate Geometry",
+   "title": "The Four Quadrants of the Coordinate Plane",
+   "full": "assets/part3/card_105.jpeg",
+   "front": "assets/part3/front/front_105.jpg"
+  },
+  {
+   "gid": 434,
+   "part": 3,
+   "lid": 106,
+   "section": "Coordinate Geometry",
+   "title": "Graphing Lines on the Coordinate Plane",
+   "full": "assets/part3/card_106.jpeg",
+   "front": "assets/part3/front/front_106.jpg"
+  },
+  {
+   "gid": 435,
+   "part": 3,
+   "lid": 107,
+   "section": "Coordinate Geometry",
+   "title": "Slope of a Line",
+   "full": "assets/part3/card_107.jpeg",
+   "front": "assets/part3/front/front_107.jpg"
+  },
+  {
+   "gid": 436,
+   "part": 3,
+   "lid": 108,
+   "section": "Coordinate Geometry",
+   "title": "The Slope of a Line Can Be Positive, Negative, Zero, or Undefined",
+   "full": "assets/part3/card_108.jpeg",
+   "front": "assets/part3/front/front_108.jpg"
+  },
+  {
+   "gid": 437,
+   "part": 3,
+   "lid": 109,
+   "section": "Coordinate Geometry",
+   "title": "Lines with Positive Slopes",
+   "full": "assets/part3/card_109.jpeg",
+   "front": "assets/part3/front/front_109.jpg"
+  },
+  {
+   "gid": 438,
+   "part": 3,
+   "lid": 110,
+   "section": "Coordinate Geometry",
+   "title": "Lines with Negative Slopes",
+   "full": "assets/part3/card_110.jpeg",
+   "front": "assets/part3/front/front_110.jpg"
+  },
+  {
+   "gid": 439,
+   "part": 3,
+   "lid": 111,
+   "section": "Coordinate Geometry",
+   "title": "Lines with Zero Slope (Horizontal Lines)",
+   "full": "assets/part3/card_111.jpeg",
+   "front": "assets/part3/front/front_111.jpg"
+  },
+  {
+   "gid": 440,
+   "part": 3,
+   "lid": 112,
+   "section": "Coordinate Geometry",
+   "title": "Lines with Undefined Slope (Vertical Lines)",
+   "full": "assets/part3/card_112.jpeg",
+   "front": "assets/part3/front/front_112.jpg"
+  },
+  {
+   "gid": 441,
+   "part": 3,
+   "lid": 113,
+   "section": "Coordinate Geometry",
+   "title": "The Slope of the Line and Steepness of the Line",
+   "full": "assets/part3/card_113.jpeg",
+   "front": "assets/part3/front/front_113.jpg"
+  },
+  {
+   "gid": 442,
+   "part": 3,
+   "lid": 114,
+   "section": "Coordinate Geometry",
+   "title": "The Slope-Intercept Equation",
+   "full": "assets/part3/card_114.jpeg",
+   "front": "assets/part3/front/front_114.jpg"
+  },
+  {
+   "gid": 443,
+   "part": 3,
+   "lid": 115,
+   "section": "Coordinate Geometry",
+   "title": "Graphing Lines Using the Slope-Intercept Equation",
+   "full": "assets/part3/card_115.jpeg",
+   "front": "assets/part3/front/front_115.jpg"
+  },
+  {
+   "gid": 444,
+   "part": 3,
+   "lid": 116,
+   "section": "Coordinate Geometry",
+   "title": "Working with the Slope-Intercept Equation",
+   "full": "assets/part3/card_116.jpeg",
+   "front": "assets/part3/front/front_116.jpg"
+  },
+  {
+   "gid": 445,
+   "part": 3,
+   "lid": 117,
+   "section": "Coordinate Geometry",
+   "title": "Equations For Horizontal and Vertical Lines",
+   "full": "assets/part3/card_117.jpeg",
+   "front": "assets/part3/front/front_117.jpg"
+  },
+  {
+   "gid": 446,
+   "part": 3,
+   "lid": 118,
+   "section": "Coordinate Geometry",
+   "title": "The Standard Form of the Equation of a Line",
+   "full": "assets/part3/card_118.jpeg",
+   "front": "assets/part3/front/front_118.jpg"
+  },
+  {
+   "gid": 447,
+   "part": 3,
+   "lid": 119,
+   "section": "Coordinate Geometry",
+   "title": "The Information Needed To Define A Line",
+   "full": "assets/part3/card_119.jpeg",
+   "front": "assets/part3/front/front_119.jpg"
+  },
+  {
+   "gid": 448,
+   "part": 3,
+   "lid": 120,
+   "section": "Coordinate Geometry",
+   "title": "Using a Right Triangle to Calculate the Length of a Line Segment",
+   "full": "assets/part3/card_120.jpeg",
+   "front": "assets/part3/front/front_120.jpg"
+  },
+  {
+   "gid": 449,
+   "part": 3,
+   "lid": 121,
+   "section": "Coordinate Geometry",
+   "title": "The Coordinate Plane",
+   "full": "assets/part3/card_121.jpeg",
+   "front": "assets/part3/front/front_121.jpg"
+  },
+  {
+   "gid": 450,
+   "part": 3,
+   "lid": 122,
+   "section": "Coordinate Geometry",
+   "title": "Parallel Lines",
+   "full": "assets/part3/card_122.jpeg",
+   "front": "assets/part3/front/front_122.jpg"
+  },
+  {
+   "gid": 451,
+   "part": 3,
+   "lid": 123,
+   "section": "Coordinate Geometry",
+   "title": "Perpendicular Lines",
+   "full": "assets/part3/card_123.jpeg",
+   "front": "assets/part3/front/front_123.jpg"
+  },
+  {
+   "gid": 452,
+   "part": 3,
+   "lid": 124,
+   "section": "Coordinate Geometry",
+   "title": "Distance Between Two Points",
+   "full": "assets/part3/card_124.jpeg",
+   "front": "assets/part3/front/front_124.jpg"
+  },
+  {
+   "gid": 453,
+   "part": 3,
+   "lid": 125,
+   "section": "Coordinate Geometry",
+   "title": "Determining the Equation of a Line from Two Points on the Line",
+   "full": "assets/part3/card_125.jpeg",
+   "front": "assets/part3/front/front_125.jpg"
+  },
+  {
+   "gid": 454,
+   "part": 3,
+   "lid": 126,
+   "section": "Coordinate Geometry",
+   "title": "Determining the Point of Intersection of Two Lines",
+   "full": "assets/part3/card_126.jpeg",
+   "front": "assets/part3/front/front_126.jpg"
+  },
+  {
+   "gid": 455,
+   "part": 3,
+   "lid": 127,
+   "section": "Functions & Sequences",
+   "title": "Introduction to Functions",
+   "full": "assets/part3/card_127.jpeg",
+   "front": "assets/part3/front/front_127.jpg"
+  },
+  {
+   "gid": 456,
+   "part": 3,
+   "lid": 128,
+   "section": "Functions & Sequences",
+   "title": "The Domain of a Function",
+   "full": "assets/part3/card_128.jpeg",
+   "front": "assets/part3/front/front_128.jpg"
+  },
+  {
+   "gid": 457,
+   "part": 3,
+   "lid": 129,
+   "section": "Functions & Sequences",
+   "title": "The Range of a Function (1)",
+   "full": "assets/part3/card_129.jpeg",
+   "front": "assets/part3/front/front_129.jpg"
+  },
+  {
+   "gid": 458,
+   "part": 3,
+   "lid": 130,
+   "section": "Functions & Sequences",
+   "title": "The Range of a Function (2)",
+   "full": "assets/part3/card_130.jpeg",
+   "front": "assets/part3/front/front_130.jpg"
+  },
+  {
+   "gid": 459,
+   "part": 3,
+   "lid": 131,
+   "section": "Functions & Sequences",
+   "title": "Using Minimum and Maximum Values to Determine the Range of a Function",
+   "full": "assets/part3/card_131.jpeg",
+   "front": "assets/part3/front/front_131.jpg"
+  },
+  {
+   "gid": 460,
+   "part": 3,
+   "lid": 132,
+   "section": "Functions & Sequences",
+   "title": "Compound Functions",
+   "full": "assets/part3/card_132.jpeg",
+   "front": "assets/part3/front/front_132.jpg"
+  },
+  {
+   "gid": 461,
+   "part": 3,
+   "lid": 133,
+   "section": "Functions & Sequences",
+   "title": "Graphs of Functions",
+   "full": "assets/part3/card_133.jpeg",
+   "front": "assets/part3/front/front_133.jpg"
+  },
+  {
+   "gid": 462,
+   "part": 3,
+   "lid": 134,
+   "section": "Functions & Sequences",
+   "title": "Maximum and Minimum Values of a Quadratic Function",
+   "full": "assets/part3/card_134.jpeg",
+   "front": "assets/part3/front/front_134.jpg"
+  },
+  {
+   "gid": 463,
+   "part": 3,
+   "lid": 135,
+   "section": "Functions & Sequences",
+   "title": "Word Problems with Maximum and Minimum Values of a Quadratic Function",
+   "full": "assets/part3/card_135.jpeg",
+   "front": "assets/part3/front/front_135.jpg"
+  },
+  {
+   "gid": 464,
+   "part": 3,
+   "lid": 136,
+   "section": "Functions & Sequences",
+   "title": "From f(x) to Everything",
+   "full": "assets/part3/card_136.jpeg",
+   "front": "assets/part3/front/front_136.jpg"
+  },
+  {
+   "gid": 465,
+   "part": 3,
+   "lid": 137,
+   "section": "Functions & Sequences",
+   "title": "Symbolism Questions",
+   "full": "assets/part3/card_137.jpeg",
+   "front": "assets/part3/front/front_137.jpg"
+  },
+  {
+   "gid": 466,
+   "part": 3,
+   "lid": 138,
+   "section": "Functions & Sequences",
+   "title": "Text-based Definitions in Symbolism Questions",
+   "full": "assets/part3/card_138.jpeg",
+   "front": "assets/part3/front/front_138.jpg"
+  },
+  {
+   "gid": 467,
+   "part": 3,
+   "lid": 139,
+   "section": "Functions & Sequences",
+   "title": "Solving Equations in Symbolism Questions",
+   "full": "assets/part3/card_139.jpeg",
+   "front": "assets/part3/front/front_139.jpg"
+  },
+  {
+   "gid": 468,
+   "part": 3,
+   "lid": 140,
+   "section": "Functions & Sequences",
+   "title": "Symbolism Questions with Two or More Variables or Symbols",
+   "full": "assets/part3/card_140.jpeg",
+   "front": "assets/part3/front/front_140.jpg"
+  },
+  {
+   "gid": 469,
+   "part": 3,
+   "lid": 141,
+   "section": "Functions & Sequences",
+   "title": "Answering Questions about an Algorithm\u2019s Net Effect",
+   "full": "assets/part3/card_141.jpeg",
+   "front": "assets/part3/front/front_141.jpg"
+  },
+  {
+   "gid": 470,
+   "part": 3,
+   "lid": 142,
+   "section": "Functions & Sequences",
+   "title": "Word Problems Involving Functions",
+   "full": "assets/part3/card_142.jpeg",
+   "front": "assets/part3/front/front_142.jpg"
+  },
+  {
+   "gid": 471,
+   "part": 3,
+   "lid": 143,
+   "section": "Functions & Sequences",
+   "title": "Testing Properties of Functions by Testing Numbers",
+   "full": "assets/part3/card_143.jpeg",
+   "front": "assets/part3/front/front_143.jpg"
+  },
+  {
+   "gid": 472,
+   "part": 3,
+   "lid": 144,
+   "section": "Functions & Sequences",
+   "title": "Functions and Properties of Numbers",
+   "full": "assets/part3/card_144.jpeg",
+   "front": "assets/part3/front/front_144.jpg"
+  },
+  {
+   "gid": 473,
+   "part": 3,
+   "lid": 145,
+   "section": "Functions & Sequences",
+   "title": "Sequences",
+   "full": "assets/part3/card_145.jpeg",
+   "front": "assets/part3/front/front_145.jpg"
+  },
+  {
+   "gid": 474,
+   "part": 3,
+   "lid": 146,
+   "section": "Functions & Sequences",
+   "title": "Recursive Notation",
+   "full": "assets/part3/card_146.jpeg",
+   "front": "assets/part3/front/front_146.jpg"
+  },
+  {
+   "gid": 475,
+   "part": 3,
+   "lid": 147,
+   "section": "Functions & Sequences",
+   "title": "Arithmetic Sequences",
+   "full": "assets/part3/card_147.jpeg",
+   "front": "assets/part3/front/front_147.jpg"
+  },
+  {
+   "gid": 476,
+   "part": 3,
+   "lid": 148,
+   "section": "Functions & Sequences",
+   "title": "Sum of the Terms of an Arithmetic Sequence",
+   "full": "assets/part3/card_148.jpeg",
+   "front": "assets/part3/front/front_148.jpg"
+  },
+  {
+   "gid": 477,
+   "part": 3,
+   "lid": 149,
+   "section": "Functions & Sequences",
+   "title": "Equally Spaced Tick Marks",
+   "full": "assets/part3/card_149.jpeg",
+   "front": "assets/part3/front/front_149.jpg"
+  },
+  {
+   "gid": 478,
+   "part": 3,
+   "lid": 150,
+   "section": "Functions & Sequences",
+   "title": "Tick Mark Questions When We Are Not Given Consecutive Values",
+   "full": "assets/part3/card_150.jpeg",
+   "front": "assets/part3/front/front_150.jpg"
+  },
+  {
+   "gid": 479,
+   "part": 3,
+   "lid": 151,
+   "section": "Functions & Sequences",
+   "title": "Equally Spaced Number Lines with Exponents",
+   "full": "assets/part3/card_151.jpeg",
+   "front": "assets/part3/front/front_151.jpg"
+  },
+  {
+   "gid": 480,
+   "part": 3,
+   "lid": 152,
+   "section": "Functions & Sequences",
+   "title": "Geometric Sequences",
+   "full": "assets/part3/card_152.jpeg",
+   "front": "assets/part3/front/front_152.jpg"
+  },
+  {
+   "gid": 481,
+   "part": 3,
+   "lid": 153,
+   "section": "Functions & Sequences",
+   "title": "Repeating Sequences",
+   "full": "assets/part3/card_153.jpeg",
+   "front": "assets/part3/front/front_153.jpg"
+  },
+  {
+   "gid": 482,
+   "part": 3,
+   "lid": 154,
+   "section": "Functions & Sequences",
+   "title": "Finding Terms in Repeating Sequences",
+   "full": "assets/part3/card_154.jpeg",
+   "front": "assets/part3/front/front_154.jpg"
+  },
+  {
+   "gid": 483,
+   "part": 3,
+   "lid": 155,
+   "section": "Functions & Sequences",
+   "title": "Finding Sums in Repeating Sequences",
+   "full": "assets/part3/card_155.jpeg",
+   "front": "assets/part3/front/front_155.jpg"
+  },
+  {
+   "gid": 484,
+   "part": 3,
+   "lid": 156,
+   "section": "Functions & Sequences",
+   "title": "Cancelling Terms in a Sequence: Finding the Sum of a Set of Consecutive Terms",
+   "full": "assets/part3/card_156.jpeg",
+   "front": "assets/part3/front/front_156.jpg"
+  },
+  {
+   "gid": 485,
+   "part": 3,
+   "lid": 157,
+   "section": "Functions & Sequences",
+   "title": "Cancelling Terms in a Sequence: Finding the Product of a Set of Consecutive Terms",
+   "full": "assets/part3/card_157.jpeg",
+   "front": "assets/part3/front/front_157.jpg"
+  },
+  {
+   "gid": 486,
+   "part": 3,
+   "lid": 158,
+   "section": "Functions & Sequences",
+   "title": "Cancelling Terms in a Sequence (Continued)",
+   "full": "assets/part3/card_158.jpeg",
+   "front": "assets/part3/front/front_158.jpg"
+  }
+ ],
+ "sections": [
+  "Combinations & Permutations",
+  "Coordinate Geometry",
+  "Essential Quant Skills",
+  "Functions & Sequences",
+  "General Word Problems",
+  "Inequalities & Absolute Values",
+  "Linear & Quadratic Equations",
+  "Overlapping Sets",
+  "Percent Word Problems",
+  "Probability",
+  "Properties of Numbers",
+  "Rate Problems",
+  "Ratios",
+  "Roots & Exponents",
+  "Statistics",
+  "Unit Conversions",
+  "Work Problems"
+ ]
+}
