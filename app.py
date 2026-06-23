@@ -182,7 +182,7 @@ div.stButton > button {border-radius:14px; font-weight:700; padding:.55rem 0;}
 # sidebar
 # ────────────────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.markdown("### 💗 I love you Rasya 💗")
+    st.markdown("### I love you Rasya ❤️")
     sec_options = ["All sections"] + SECTIONS
     section = st.selectbox("Topic", sec_options, index=0)
     mode = st.radio("Mode", ["Spaced repetition", "Browse / Cram"], index=0,
